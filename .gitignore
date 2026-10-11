@@ -1,0 +1,45 @@
+.env
+.env.local
+.next/
+node_modules/
+data/
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+*.egg-info/
+.coverage
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Frontend
+.next/
+node_modules/
+out/
+dist/
+build/
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+*.egg-info/
+.coverage
+
+# Local data and databases
+data/
+*.db
+*.sqlite
+*.sqlite3
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db

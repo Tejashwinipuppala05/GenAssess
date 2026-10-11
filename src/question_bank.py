@@ -1,0 +1,41 @@
+from __future__ import annotations
+
+from .models import Question
+
+
+def q(prompt: str, topic: str, difficulty: str, concepts: list[str], ideal: str) -> Question:
+    return Question(prompt, topic, difficulty, concepts, ideal, "Local question bank")
+
+
+QUESTION_BANK: dict[str, dict[str, list[Question]]] = {
+    "Python": {
+        "Easy": [q("What is the difference between a Python list and a tuple?", "Python", "Easy", ["mutable", "immutable", "list", "tuple"], "Lists are mutable; tuples are immutable. Both are ordered sequences."), q("What does a Python dictionary store and why are its lookups usually fast?", "Python", "Easy", ["key", "value", "hash", "O(1)"], "A dictionary maps keys to values and normally uses a hash table, giving average O(1) lookup.")],
+        "Medium": [q("Explain how Python generators improve memory efficiency.", "Python", "Medium", ["yield", "lazy", "iterator", "memory"], "Generators yield values lazily, avoiding storage of an entire sequence."), q("What is the purpose of a Python context manager?", "Python", "Medium", ["with", "resource", "__enter__", "__exit__"], "A context manager sets up and reliably cleans up a resource, commonly through with and __enter__/__exit__.")],
+        "Hard": [q("How would you make a shared Python counter safe across threads?", "Python", "Hard", ["lock", "thread", "race condition", "synchronization"], "Use a lock around the read-modify-write operation to prevent race conditions."), q("When would you use asyncio instead of threads in Python?", "Python", "Hard", ["asyncio", "I/O", "await", "concurrency"], "asyncio is useful for many I/O-bound tasks that can await cooperatively; threads may suit blocking libraries or other concurrency needs.")],
+    },
+    "Java": {
+        "Easy": [q("What is the difference between == and equals() in Java?", "Java", "Easy", ["reference", "object", "equals", "comparison"], "For objects, == compares references; equals() compares logical content when implemented."), q("What is encapsulation in Java?", "Java", "Easy", ["private", "data", "methods", "access"], "Encapsulation bundles data and behavior, while controlling direct access to internal state, often through private fields and methods.")],
+        "Medium": [q("Why must hashCode() be consistent with equals() for HashMap keys?", "Java", "Medium", ["hashcode", "equals", "hashmap", "bucket"], "HashMap uses hash codes to find a bucket and equals to identify the key; equal objects need equal hash codes."), q("What is the difference between an interface and an abstract class in Java?", "Java", "Medium", ["interface", "abstract", "implementation", "inheritance"], "An interface defines a contract and supports multiple implemented interfaces; an abstract class can share state and implementation through single class inheritance.")],
+        "Hard": [q("How would you safely update a shared map from several Java threads?", "Java", "Hard", ["concurrenthashmap", "synchronization", "thread-safe", "atomic"], "Use ConcurrentHashMap with atomic operations or synchronize the critical section."), q("How does Java garbage collection affect application design?", "Java", "Hard", ["garbage collection", "memory", "reachability", "resources"], "Garbage collection reclaims unreachable memory, but applications should still close external resources and avoid retaining unnecessary references.")],
+    },
+    "SQL": {
+        "Easy": [q("What is the difference between WHERE and HAVING in SQL?", "SQL", "Easy", ["where", "having", "group", "aggregate"], "WHERE filters rows before grouping; HAVING filters groups after aggregation."), q("What is an INNER JOIN used for?", "SQL", "Easy", ["join", "matching", "rows", "tables"], "An INNER JOIN combines rows from tables when the join condition matches in both tables.")],
+        "Medium": [q("How can you find the second-highest salary from an employees table?", "SQL", "Medium", ["salary", "max", "subquery", "distinct"], "Use MAX with a subquery excluding the maximum, or a window function such as DENSE_RANK."), q("What is a SQL transaction and why is it useful?", "SQL", "Medium", ["transaction", "commit", "rollback", "atomic"], "A transaction groups operations so they can commit together or roll back, preserving consistent data changes.")],
+        "Hard": [q("Why can an index improve reads but make writes slower?", "SQL", "Hard", ["index", "read", "write", "maintenance"], "Indexes reduce rows scanned during reads but must be maintained on inserts, updates, and deletes."), q("How would you investigate a slow SQL query?", "SQL", "Hard", ["execution plan", "index", "scan", "query"], "Inspect the execution plan, look for expensive scans or joins, review indexes and row estimates, then measure changes.")],
+    },
+    "Machine Learning": {
+        "Easy": [q("What is the difference between supervised and unsupervised learning?", "Machine Learning", "Easy", ["labels", "supervised", "unsupervised", "patterns"], "Supervised learning uses labeled data to predict a target; unsupervised learning finds patterns in unlabeled data."), q("What is a feature in a machine-learning dataset?", "Machine Learning", "Easy", ["feature", "input", "variable", "prediction"], "A feature is an input variable used by a model to make a prediction.")],
+        "Medium": [q("What is overfitting, and name two ways to reduce it.", "Machine Learning", "Medium", ["overfitting", "generalization", "regularization", "validation"], "Overfitting learns training noise and hurts generalization. Use regularization, validation, more data, or simpler models."), q("Why do we use a validation set during model development?", "Machine Learning", "Medium", ["validation", "hyperparameter", "generalization", "training"], "A validation set helps select models and hyperparameters based on unseen data without using the final test set.")],
+        "Hard": [q("Why should a scaler be fit only on training data?", "Machine Learning", "Hard", ["data leakage", "training", "test", "scaler"], "Fitting on all splits leaks test information. Fit on training data, then transform validation and test data."), q("How would you choose a classification metric for an imbalanced dataset?", "Machine Learning", "Hard", ["imbalance", "precision", "recall", "F1"], "Accuracy can mislead on imbalance; use precision, recall, F1, PR-AUC, and a threshold appropriate to the error costs.")],
+    },
+    "Data Structures & Algorithms": {
+        "Easy": [q("What is binary search complexity and what condition must hold?", "Data Structures & Algorithms", "Easy", ["O(log n)", "sorted", "binary search", "half"], "Binary search is O(log n), halves the search space, and requires sorted or monotonic input."), q("What is a stack and name one common use?", "Data Structures & Algorithms", "Easy", ["LIFO", "push", "pop", "stack"], "A stack is a last-in-first-out structure using push and pop, commonly used for call stacks or matching brackets.")],
+        "Medium": [q("When would you use a hash map instead of a sorted array for lookups?", "Data Structures & Algorithms", "Medium", ["hash map", "O(1)", "lookup", "sorted"], "A hash map gives average O(1) key lookup when order is unnecessary; a sorted array supports order and binary search."), q("Why is breadth-first search useful for an unweighted shortest path?", "Data Structures & Algorithms", "Medium", ["BFS", "queue", "shortest", "unweighted"], "BFS explores nodes by increasing number of edges using a queue, so its first visit to a node is via a shortest unweighted path.")],
+        "Hard": [q("Describe an O(n) method to detect a linked-list cycle.", "Data Structures & Algorithms", "Hard", ["fast", "slow", "pointers", "cycle"], "Use Floyd's algorithm: move slow by one and fast by two; if they meet, there is a cycle."), q("Compare the average time complexity of merge sort and quicksort.", "Data Structures & Algorithms", "Hard", ["merge sort", "quicksort", "O(n log n)", "worst"], "Both average O(n log n); merge sort guarantees it with extra memory, while quicksort has O(n^2) worst case but is often fast in practice.")],
+    },
+}
+
+
+def fallback_question(topic: str, difficulty: str, used_prompts: set[str]) -> Question:
+    questions = QUESTION_BANK[topic][difficulty]
+    return next((item for item in questions if item.prompt not in used_prompts), questions[0])

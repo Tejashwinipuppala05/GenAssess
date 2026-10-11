@@ -1,0 +1,1 @@
+"""Company-style aptitude practice."""

@@ -1,0 +1,115 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000" role="img" aria-labelledby="title desc">
+  <title id="title">GenAssess application navigation</title>
+  <desc id="desc">Candidate aptitude-practice flow, recruiter navigation, and the separate admin company-verification step.</desc>
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto">
+      <path d="M0 0L10 5L0 10Z" fill="#64748b"/>
+    </marker>
+    <marker id="arrow-purple" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto">
+      <path d="M0 0L10 5L0 10Z" fill="#6d4aff"/>
+    </marker>
+    <style>
+      .title { font: 700 38px Arial, sans-serif; fill: #111827; }
+      .subtitle { font: 400 17px Arial, sans-serif; fill: #64748b; }
+      .lane-title { font: 700 21px Arial, sans-serif; fill: #111827; }
+      .node-title { font: 700 17px Arial, sans-serif; fill: #111827; }
+      .node-sub { font: 400 13px Arial, sans-serif; fill: #64748b; }
+      .small { font: 600 12px Arial, sans-serif; fill: #475569; }
+      .white-title { font: 700 17px Arial, sans-serif; fill: #fff; }
+      .white-sub { font: 400 13px Arial, sans-serif; fill: #e0e7ff; }
+      .arrow { fill: none; stroke: #94a3b8; stroke-width: 3; marker-end: url(#arrow); }
+      .purple-arrow { fill: none; stroke: #6d4aff; stroke-width: 3; marker-end: url(#arrow-purple); }
+      .dashed { stroke-dasharray: 9 8; }
+    </style>
+  </defs>
+
+  <rect width="1600" height="1000" fill="#f8fafc"/>
+  <text x="80" y="76" class="title">GenAssess — Application Navigation</text>
+  <text x="80" y="108" class="subtitle">Role-based access with a complete candidate Aptitude practice journey</text>
+
+  <rect x="72" y="145" width="1456" height="400" rx="24" fill="#fff" stroke="#e2e8f0" stroke-width="2"/>
+  <rect x="72" y="145" width="13" height="400" rx="6" fill="#6d4aff"/>
+  <text x="112" y="188" class="lane-title">CANDIDATE / JOB SEEKER</text>
+  <text x="112" y="213" class="node-sub">Protected candidate workspace · assessment round currently implemented: Aptitude &amp; Reasoning</text>
+
+  <rect x="112" y="278" width="188" height="86" rx="16" fill="#eef2ff" stroke="#c7d2fe" stroke-width="2"/>
+  <text x="132" y="312" class="node-title">Sign in / Register</text>
+  <text x="132" y="337" class="node-sub">Choose job seeker role</text>
+
+  <rect x="348" y="278" width="188" height="86" rx="16" fill="#fff" stroke="#cbd5e1" stroke-width="2"/>
+  <text x="368" y="312" class="node-title">Candidate Dashboard</text>
+  <text x="368" y="337" class="node-sub">Overview · recent practice</text>
+
+  <rect x="584" y="278" width="188" height="86" rx="16" fill="#fff" stroke="#cbd5e1" stroke-width="2"/>
+  <text x="604" y="312" class="node-title">Practice Setup</text>
+  <text x="604" y="337" class="node-sub">Role · company · experience</text>
+
+  <rect x="820" y="278" width="188" height="86" rx="16" fill="#fff" stroke="#cbd5e1" stroke-width="2"/>
+  <text x="840" y="312" class="node-title">Instructions</text>
+  <text x="840" y="337" class="node-sub">Aptitude blueprint · timing</text>
+
+  <rect x="1056" y="278" width="188" height="86" rx="16" fill="#6d4aff"/>
+  <text x="1076" y="312" class="white-title">Aptitude Test</text>
+  <text x="1076" y="337" class="white-sub">Timed · answers saved</text>
+
+  <rect x="1292" y="278" width="188" height="86" rx="16" fill="#fff" stroke="#cbd5e1" stroke-width="2"/>
+  <text x="1312" y="312" class="node-title">Results</text>
+  <text x="1312" y="337" class="node-sub">Score · accuracy · analysis</text>
+
+  <path d="M300 321H340" class="arrow"/>
+  <path d="M536 321H576" class="arrow"/>
+  <path d="M772 321H812" class="arrow"/>
+  <path d="M1008 321H1048" class="purple-arrow"/>
+  <path d="M1244 321H1284" class="arrow"/>
+
+  <rect x="555" y="430" width="260" height="75" rx="14" fill="#f1f5f9" stroke="#cbd5e1" stroke-width="2"/>
+  <text x="575" y="460" class="node-title">Practice History</text>
+  <text x="575" y="484" class="node-sub">Resume attempts · revisit results</text>
+  <path d="M1385 364V467H823" class="arrow"/>
+  <path d="M555 467H442V372" class="arrow"/>
+  <text x="852" y="455" class="small">review / repeat practice</text>
+
+  <rect x="72" y="575" width="1456" height="270" rx="24" fill="#fff" stroke="#e2e8f0" stroke-width="2"/>
+  <rect x="72" y="575" width="13" height="270" rx="6" fill="#0f766e"/>
+  <text x="112" y="618" class="lane-title">RECRUITER / HIRING TEAM</text>
+  <text x="112" y="643" class="node-sub">Protected recruiter workspace · job publication requires approved company verification</text>
+
+  <rect x="112" y="692" width="198" height="86" rx="16" fill="#ecfdf5" stroke="#a7f3d0" stroke-width="2"/>
+  <text x="132" y="726" class="node-title">Sign in / Register</text>
+  <text x="132" y="751" class="node-sub">Choose hiring role</text>
+
+  <rect x="356" y="692" width="198" height="86" rx="16" fill="#fff" stroke="#cbd5e1" stroke-width="2"/>
+  <text x="376" y="726" class="node-title">Recruiter Dashboard</text>
+  <text x="376" y="751" class="node-sub">Hiring workspace</text>
+
+  <rect x="600" y="692" width="220" height="86" rx="16" fill="#fff" stroke="#cbd5e1" stroke-width="2"/>
+  <text x="620" y="726" class="node-title">Company Verification</text>
+  <text x="620" y="751" class="node-sub">Submit details for review</text>
+
+  <rect x="866" y="692" width="198" height="86" rx="16" fill="#fff" stroke="#cbd5e1" stroke-width="2"/>
+  <text x="886" y="726" class="node-title">Post a Job</text>
+  <text x="886" y="751" class="node-sub">Available after approval</text>
+
+  <rect x="1110" y="692" width="174" height="86" rx="16" fill="#fff7ed" stroke="#fed7aa" stroke-width="2"/>
+  <text x="1130" y="726" class="node-title">Applicants</text>
+  <text x="1130" y="751" class="node-sub">Coming Soon</text>
+
+  <rect x="1330" y="692" width="164" height="86" rx="16" fill="#fff7ed" stroke="#fed7aa" stroke-width="2"/>
+  <text x="1350" y="726" class="node-title">Evaluation</text>
+  <text x="1350" y="751" class="node-sub">Coming Soon</text>
+
+  <path d="M310 735H348" class="arrow"/>
+  <path d="M554 735H592" class="arrow"/>
+  <path d="M820 735H858" class="arrow"/>
+  <path d="M1064 735H1102" class="arrow dashed"/>
+  <path d="M1284 735H1322" class="arrow dashed"/>
+
+  <rect x="600" y="873" width="464" height="78" rx="16" fill="#f5f3ff" stroke="#c4b5fd" stroke-width="2"/>
+  <text x="620" y="906" class="node-title">Admin Verification Review</text>
+  <text x="620" y="930" class="node-sub">Authorized reviewer signs in normally; access is limited by VERIFICATION_ADMIN_EMAILS</text>
+  <path d="M710 778V865" class="purple-arrow dashed"/>
+  <path d="M964 865V820H966V786" class="purple-arrow dashed"/>
+  <text x="1077" y="863" class="small">approve / reject</text>
+
+  <text x="112" y="975" class="node-sub">Solid arrows: available navigation · Dashed arrows: review gate or Coming Soon destinations</text>
+</svg>
