@@ -15,6 +15,12 @@ from src.dashboard.routes import candidate_router, recruiter_router
 from src.verification.routes import admin_router as verification_admin_router
 from src.verification.routes import recruiter_router as verification_recruiter_router
 from src.verification.jobs import router as recruiter_jobs_router
+from src.rounds.routes import router as candidate_rounds_router
+from src.applications import candidate_router as applications_candidate_router, recruiter_router as applications_recruiter_router
+from src.technical.routes import router as candidate_technical_router
+
+
+
 from src.aptitude.routes import router as candidate_aptitude_router
 
 load_dotenv()
@@ -44,3 +50,7 @@ app.include_router(verification_recruiter_router)
 app.include_router(verification_admin_router)
 app.include_router(recruiter_jobs_router)
 app.include_router(candidate_aptitude_router)
+app.include_router(applications_candidate_router)
+app.include_router(applications_recruiter_router)
+app.include_router(candidate_rounds_router)
+app.include_router(candidate_technical_router)

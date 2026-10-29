@@ -10,7 +10,7 @@ _RUBRIC = [
 ]
 
 
-def _questions(category: str, topic: str, prompts: tuple[str, ...]) -> list[BankQuestion]:
+def _questions(category: str, topic: str, prompts: tuple[str, ...], start: int = 1) -> list[BankQuestion]:
     return [
         {
             "id": f"bh-{category.lower().replace('/', '-').replace(' ', '-')}-{index:02d}",
@@ -26,7 +26,7 @@ def _questions(category: str, topic: str, prompts: tuple[str, ...]) -> list[Bank
             "evaluation_criteria": _RUBRIC.copy(),
             "tags": ["behavioral", category.lower()],
         }
-        for index, prompt in enumerate(prompts, start=1)
+        for index, prompt in enumerate(prompts, start=start)
     ]
 
 
@@ -142,3 +142,45 @@ BEHAVIORAL_QUESTIONS: list[BankQuestion] = [
         ),
     ),
 ]
+# Additional original GenAssess behavioral/HR questions.
+BEHAVIORAL_QUESTIONS.extend(_questions("Introduction", "Introduction", (
+    "How do you prioritize learning when starting a new role?",
+    "What feedback have you received that changed how you work?",
+), start=6))
+BEHAVIORAL_QUESTIONS.extend(_questions("Teamwork", "Teamwork", (
+    "Describe a time you shared credit for a team success.",
+    "How do you keep a team aligned when goals shift?",
+), start=6))
+BEHAVIORAL_QUESTIONS.extend(_questions("Leadership", "Leadership", (
+    "Tell me about a time you mentored a peer through a difficult task.",
+    "How do you build trust with a new team?",
+), start=6))
+BEHAVIORAL_QUESTIONS.extend(_questions("Conflict Resolution", "Conflict Resolution", (
+    "Describe a time you mediated between two conflicting viewpoints.",
+    "How do you keep a disagreement focused on the issue?",
+), start=6))
+BEHAVIORAL_QUESTIONS.extend(_questions("Problem Solving", "Problem Solving", (
+    "Describe a time you used data to challenge an assumption.",
+    "How do you decide when to seek help on a problem?",
+), start=6))
+BEHAVIORAL_QUESTIONS.extend(_questions("Communication", "Communication", (
+    "Tell me about a time you tailored a message for a non-technical audience.",
+    "How do you ensure your written updates are actionable?",
+), start=6))
+BEHAVIORAL_QUESTIONS.extend(_questions("Adaptability", "Adaptability", (
+    "Describe a time you adapted to a sudden change in scope.",
+    "How do you stay productive during uncertainty?",
+), start=6))
+BEHAVIORAL_QUESTIONS.extend(_questions("Failure/Learning", "Failure and Learning", (
+    "Tell me about a time you turned a failure into a process improvement.",
+    "How do you prevent repeating a mistake?",
+), start=6))
+BEHAVIORAL_QUESTIONS.extend(_questions("Workplace Situations", "Workplace Situations", (
+    "How would you handle an unclear ownership boundary on a task?",
+    "What would you do if a deadline became unrealistic?",
+), start=6))
+BEHAVIORAL_QUESTIONS.extend(_questions("Role-Specific Situations", "Role-Specific Situations", (
+    "How would you balance quality and speed for a role-specific deliverable?",
+    "Describe how you would validate a recommendation before presenting it.",
+), start=6))
+

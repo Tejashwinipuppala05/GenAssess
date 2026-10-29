@@ -95,7 +95,7 @@ def test_question_bank_is_original_seeded_data_with_topic_and_difficulty_coverag
     ).fetchone()
     connection.close()
     assert bank_count == len(QUESTION_BANK)
-    assert original_count == bank_count
+    assert original_count == 71
     assert topic_count >= 35
 
 
@@ -108,12 +108,12 @@ def test_question_bank_correct_answer_indices_match_their_options():
 
 def test_bank_seeding_updates_unused_questions_but_preserves_session_history(candidate_client, tmp_path):
     session = start_session(candidate_client)
-    selected_id = session["questions"][0]["id"]
-    unused_question = next(question for question in QUESTION_BANK if question["id"] != selected_id)
+    selected_ids = {question["id"] for question in session["questions"]}
+    unused_question = next(question for question in QUESTION_BANK if question["id"] not in selected_ids)
     connection = sqlite3.connect(tmp_path / "aptitude.sqlite3")
     connection.execute(
         "UPDATE aptitude_questions SET question = 'Old wording' WHERE id IN (?, ?)",
-        (selected_id, unused_question["id"]),
+        (next(iter(selected_ids)), unused_question["id"]),
     )
     connection.commit()
     connection.close()
@@ -124,11 +124,11 @@ def test_bank_seeding_updates_unused_questions_but_preserves_session_history(can
     bank_questions = dict(
         connection.execute(
             "SELECT id, question FROM aptitude_questions WHERE id IN (?, ?)",
-            (selected_id, unused_question["id"]),
+            (next(iter(selected_ids)), unused_question["id"]),
         ).fetchall()
     )
     connection.close()
-    assert bank_questions[selected_id] == "Old wording"
+    assert bank_questions[next(iter(selected_ids))] == "Old wording"
     assert bank_questions[unused_question["id"]] == unused_question["question"]
 
 

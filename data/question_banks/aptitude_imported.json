@@ -1,0 +1,4052 @@
+[
+  {
+    "id": "aptqa-synonyms-001",
+    "question": "Choose the synonym for \"Abundant\":",
+    "options": [
+      "Scarce",
+      "Plentiful",
+      "Limited",
+      "Rare"
+    ],
+    "correct_answer": 1,
+    "explanation": "Abundant means existing in large quantities. Plentiful is the closest synonym.",
+    "topic": "Synonyms",
+    "subtopic": "Synonyms",
+    "category": "Verbal Ability",
+    "difficulty": "Easy",
+    "estimated_time_seconds": 75,
+    "source_type": "Aptitude-QA (Prathamesh25/aptitude-qa-dataset)",
+    "tags": [
+      "aptitude-qa",
+      "synonyms",
+      "01-basic"
+    ],
+    "target_roles": [],
+    "source": "Aptitude-QA dataset",
+    "license": "Apache-2.0",
+    "attribution": "Prathamesh25/aptitude-qa-dataset (Hugging Face), imported and validated by GenAssess."
+  },
+  {
+    "id": "aptqa-synonyms-002",
+    "question": "Find the synonym for \"Candid\":",
+    "options": [
+      "Deceptive",
+      "Honest",
+      "Reserved",
+      "Shy"
+    ],
+    "correct_answer": 1,
+    "explanation": "Candid means truthful and straightforward. Honest is the closest synonym.",
+    "topic": "Synonyms",
+    "subtopic": "Synonyms",
+    "category": "Verbal Ability",
+    "difficulty": "Easy",
+    "estimated_time_seconds": 75,
+    "source_type": "Aptitude-QA (Prathamesh25/aptitude-qa-dataset)",
+    "tags": [
+      "aptitude-qa",
+      "synonyms",
+      "01-basic"
+    ],
+    "target_roles": [],
+    "source": "Aptitude-QA dataset",
+    "license": "Apache-2.0",
+    "attribution": "Prathamesh25/aptitude-qa-dataset (Hugging Face), imported and validated by GenAssess."
+  },
+  {
+    "id": "aptqa-synonyms-003",
+    "question": "Synonym for \"Eloquent\":",
+    "options": [
+      "Silent",
+      "Articulate",
+      "Hesitant",
+      "Vague"
+    ],
+    "correct_answer": 1,
+    "explanation": "Eloquent means fluent or persuasive in speech. Articulate is the closest synonym.",
+    "topic": "Synonyms",
+    "subtopic": "Synonyms",
+    "category": "Verbal Ability",
+    "difficulty": "Easy",
+    "estimated_time_seconds": 75,
+    "source_type": "Aptitude-QA (Prathamesh25/aptitude-qa-dataset)",
+    "tags": [
+      "aptitude-qa",
+      "synonyms",
+      "01-basic"
+    ],
+    "target_roles": [],
+    "source": "Aptitude-QA dataset",
+    "license": "Apache-2.0",
+    "attribution": "Prathamesh25/aptitude-qa-dataset (Hugging Face), imported and validated by GenAssess."
+  },
+  {
+    "id": "aptqa-synonyms-004",
+    "question": "Choose the synonym for \"Fragile\":",
+    "options": [
+      "Sturdy",
+      "Delicate",
+      "Strong",
+      "Robust"
+    ],
+    "correct_answer": 1,
+    "explanation": "Fragile means easily broken. Delicate is the closest synonym.",
+    "topic": "Synonyms",
+    "subtopic": "Synonyms",
+    "category": "Verbal Ability",
+    "difficulty": "Easy",
+    "estimated_time_seconds": 75,
+    "source_type": "Aptitude-QA (Prathamesh25/aptitude-qa-dataset)",
+    "tags": [
+      "aptitude-qa",
+      "synonyms",
+      "01-basic"
+    ],
+    "target_roles": [],
+    "source": "Aptitude-QA dataset",
+    "license": "Apache-2.0",
+    "attribution": "Prathamesh25/aptitude-qa-dataset (Hugging Face), imported and validated by GenAssess."
+  },
+  {
+    "id": "aptqa-synonyms-005",
+    "question": "Synonym for \"Zealous\":",
+    "options": [
+      "Indifferent",
+      "Enthusiastic",
+      "Lazy",
+      "Apathetic"
+    ],
+    "correct_answer": 1,
+    "explanation": "Zealous means passionate or fervent. Enthusiastic is the closest synonym.",
+    "topic": "Synonyms",
+    "subtopic": "Synonyms",
+    "category": "Verbal Ability",
+    "difficulty": "Easy",
+    "estimated_time_seconds": 75,
+    "source_type": "Aptitude-QA (Prathamesh25/aptitude-qa-dataset)",
+    "tags": [
+      "aptitude-qa",
+      "synonyms",
+      "01-basic"
+    ],
+    "target_roles": [],
+    "source": "Aptitude-QA dataset",
+    "license": "Apache-2.0",
+    "attribution": "Prathamesh25/aptitude-qa-dataset (Hugging Face), imported and validated by GenAssess."
+  },
+  {
+    "id": "aptqa-synonyms-006",
+    "question": "Find the synonym for \"Obscure\":",
+    "options": [
+      "Clear",
+      "Hidden",
+      "Obvious",
+      "Transparent"
+    ],
+    "correct_answer": 1,
+    "explanation": "Obscure means unclear or concealed. Hidden is the closest synonym.",
+    "topic": "Synonyms",
+    "subtopic": "Synonyms",
+    "category": "Verbal Ability",
+    "difficulty": "Easy",
+    "estimated_time_seconds": 75,
+    "source_type": "Aptitude-QA (Prathamesh25/aptitude-qa-dataset)",
+    "tags": [
+      "aptitude-qa",
+      "synonyms",
+      "01-basic"
+    ],
+    "target_roles": [],
+    "source": "Aptitude-QA dataset",
+    "license": "Apache-2.0",
+    "attribution": "Prathamesh25/aptitude-qa-dataset (Hugging Face), imported and validated by GenAssess."
+  },
+  {
+    "id": "aptqa-synonyms-007",
+    "question": "Synonym for \"Meticulous\":",
+    "options": [
+      "Careless",
+      "Precise",
+      "Hasty",
+      "Negligent"
+    ],
+    "correct_answer": 1,
+    "explanation": "Meticulous means showing great attention to detail. Precise is the closest synonym.",
+    "topic": "Synonyms",
+    "subtopic": "Synonyms",
+    "category": "Verbal Ability",
+    "difficulty": "Easy",
+    "estimated_time_seconds": 75,
+    "source_type": "Aptitude-QA (Prathamesh25/aptitude-qa-dataset)",
+    "tags": [
+      "aptitude-qa",
+      "synonyms",
+      "01-basic"
+    ],
+    "target_roles": [],
+    "source": "Aptitude-QA dataset",
+    "license": "Apache-2.0",
+    "attribution": "Prathamesh25/aptitude-qa-dataset (Hugging Face), imported and validated by GenAssess."
+  },
+  {
+    "id": "aptqa-synonyms-008",
+    "question": "Choose the synonym for \"Vivid\":",
+    "options": [
+      "Dull",
+      "Bright",
+      "Faint",
+      "Pale"
+    ],
+    "correct_answer": 1,
+    "explanation": "Vivid means clear and striking. Bright is the closest synonym.",
+    "topic": "Synonyms",
+    "subtopic": "Synonyms",
+    "category": "Verbal Ability",
+    "difficulty": "Easy",
+    "estimated_time_seconds": 75,
+    "source_type": "Aptitude-QA (Prathamesh25/aptitude-qa-dataset)",
+    "tags": [
+      "aptitude-qa",
+      "synonyms",
+      "01-basic"
+    ],
+    "target_roles": [],
+    "source": "Aptitude-QA dataset",
+    "license": "Apache-2.0",
+    "attribution": "Prathamesh25/aptitude-qa-dataset (Hugging Face), imported and validated by GenAssess."
+  },
+  {
+    "id": "aptqa-synonyms-009",
+    "question": "Synonym for \"Prudent\":",
+    "options": [
+      "Reckless",
+      "Cautious",
+      "Impulsive",
+      "Rash"
+    ],
+    "correct_answer": 1,
+    "explanation": "Prudent means careful and sensible. Cautious is the closest synonym.",
+    "topic": "Synonyms",
+    "subtopic": "Synonyms",
+    "category": "Verbal Ability",
+    "difficulty": "Easy",
+    "estimated_time_seconds": 75,
+    "source_type": "Aptitude-QA (Prathamesh25/aptitude-qa-dataset)",
+    "tags": [
+      "aptitude-qa",
+      "synonyms",
+      "01-basic"
+    ],
+    "target_roles": [],
+    "source": "Aptitude-QA dataset",
+    "license": "Apache-2.0",
+    "attribution": "Prathamesh25/aptitude-qa-dataset (Hugging Face), imported and validated by GenAssess."
+  },
+  {
+    "id": "aptqa-synonyms-010",
+    "question": "Find the synonym for \"Amicable\":",
+    "options": [
+      "Hostile",
+      "Friendly",
+      "Cold",
+      "Distant"
+    ],
+    "correct_answer": 1,
+    "explanation": "Amicable means characterized by friendliness. Friendly is the closest synonym.",
+    "topic": "Synonyms",
+    "subtopic": "Synonyms",
+    "category": "Verbal Ability",
+    "difficulty": "Easy",
+    "estimated_time_seconds": 75,
+    "source_type": "Aptitude-QA (Prathamesh25/aptitude-qa-dataset)",
+    "tags": [
+      "aptitude-qa",
+      "synonyms",
+      "01-basic"
+    ],
+    "target_roles": [],
+    "source": "Aptitude-QA dataset",
+    "license": "Apache-2.0",
+    "attribution": "Prathamesh25/aptitude-qa-dataset (Hugging Face), imported and validated by GenAssess."
+  },
+  {
+    "id": "aptqa-antonyms-001",
+    "question": "Choose the antonym for \"Big\":",
+    "options": [
+      "Large",
+      "Small",
+      "Huge",
+      "Vast"
+    ],
+    "correct_answer": 1,
+    "explanation": "Big means large in size. Small is the opposite.",
+    "topic": "Antonyms",
+    "subtopic": "Antonyms",
+    "category": "Verbal Ability",
+    "difficulty": "Easy",
+    "estimated_time_seconds": 75,
+    "source_type": "Aptitude-QA (Prathamesh25/aptitude-qa-dataset)",
+    "tags": [
+      "aptitude-qa",
+      "antonyms",
+      "01-basic"
+    ],
+    "target_roles": [],
+    "source": "Aptitude-QA dataset",
+    "license": "Apache-2.0",
+    "attribution": "Prathamesh25/aptitude-qa-dataset (Hugging Face), imported and validated by GenAssess."
+  },
+  {
+    "id": "aptqa-antonyms-002",
+    "question": "Find the antonym for \"Bright\":",
+    "options": [
+      "Radiant",
+      "Dim",
+      "Shiny",
+      "Glowing"
+    ],
+    "correct_answer": 1,
+    "explanation": "Bright means full of light. Dim means lacking light.",
+    "topic": "Antonyms",
+    "subtopic": "Antonyms",
+    "category": "Verbal Ability",
+    "difficulty": "Easy",
+    "estimated_time_seconds": 75,
+    "source_type": "Aptitude-QA (Prathamesh25/aptitude-qa-dataset)",
+    "tags": [
+      "aptitude-qa",
+      "antonyms",
+      "01-basic"
+    ],
+    "target_roles": [],
+    "source": "Aptitude-QA dataset",
+    "license": "Apache-2.0",
+    "attribution": "Prathamesh25/aptitude-qa-dataset (Hugging Face), imported and validated by GenAssess."
+  },
+  {
+    "id": "aptqa-antonyms-003",
+    "question": "Antonym for \"Fast\":",
+    "options": [
+      "Quick",
+      "Slow",
+      "Rapid",
+      "Swift"
+    ],
+    "correct_answer": 1,
+    "explanation": "Fast means moving quickly. Slow is the opposite.",
+    "topic": "Antonyms",
+    "subtopic": "Antonyms",
+    "category": "Verbal Ability",
+    "difficulty": "Easy",
+    "estimated_time_seconds": 75,
+    "source_type": "Aptitude-QA (Prathamesh25/aptitude-qa-dataset)",
+    "tags": [
+      "aptitude-qa",
+      "antonyms",
+      "01-basic"
+    ],
+    "target_roles": [],
+    "source": "Aptitude-QA dataset",
+    "license": "Apache-2.0",
+    "attribution": "Prathamesh25/aptitude-qa-dataset (Hugging Face), imported and validated by GenAssess."
+  },
+  {
+    "id": "aptqa-antonyms-004",
+    "question": "Choose the antonym for \"Happy\":",
+    "options": [
+      "Joyful",
+      "Sad",
+      "Cheerful",
+      "Delighted"
+    ],
+    "correct_answer": 1,
+    "explanation": "Happy means feeling pleasure. Sad is the opposite.",
+    "topic": "Antonyms",
+    "subtopic": "Antonyms",
+    "category": "Verbal Ability",
+    "difficulty": "Easy",
+    "estimated_time_seconds": 75,
+    "source_type": "Aptitude-QA (Prathamesh25/aptitude-qa-dataset)",
+    "tags": [
+      "aptitude-qa",
+      "antonyms",
+      "01-basic"
+    ],
+    "target_roles": [],
+    "source": "Aptitude-QA dataset",
+    "license": "Apache-2.0",
+    "attribution": "Prathamesh25/aptitude-qa-dataset (Hugging Face), imported and validated by GenAssess."
+  },
+  {
+    "id": "aptqa-antonyms-005",
+    "question": "Antonym for \"Strong\":",
+    "options": [
+      "Powerful",
+      "Weak",
+      "Sturdy",
+      "Robust"
+    ],
+    "correct_answer": 1,
+    "explanation": "Strong means having power. Weak is the opposite.",
+    "topic": "Antonyms",
+    "subtopic": "Antonyms",
+    "category": "Verbal Ability",
+    "difficulty": "Easy",
+    "estimated_time_seconds": 75,
+    "source_type": "Aptitude-QA (Prathamesh25/aptitude-qa-dataset)",
+    "tags": [
+      "aptitude-qa",
+      "antonyms",
+      "01-basic"
+    ],
+    "target_roles": [],
+    "source": "Aptitude-QA dataset",
+    "license": "Apache-2.0",
+    "attribution": "Prathamesh25/aptitude-qa-dataset (Hugging Face), imported and validated by GenAssess."
+  },
+  {
+    "id": "aptqa-antonyms-006",
+    "question": "Find the antonym for \"Open\":",
+    "options": [
+      "Unlocked",
+      "Closed",
+      "Accessible",
+      "Free"
+    ],
+    "correct_answer": 1,
+    "explanation": "Open means not shut. Closed is the opposite.",
+    "topic": "Antonyms",
+    "subtopic": "Antonyms",
+    "category": "Verbal Ability",
+    "difficulty": "Easy",
+    "estimated_time_seconds": 75,
+    "source_type": "Aptitude-QA (Prathamesh25/aptitude-qa-dataset)",
+    "tags": [
+      "aptitude-qa",
+      "antonyms",
+      "01-basic"
+    ],
+    "target_roles": [],
+    "source": "Aptitude-QA dataset",
+    "license": "Apache-2.0",
+    "attribution": "Prathamesh25/aptitude-qa-dataset (Hugging Face), imported and validated by GenAssess."
+  },
+  {
+    "id": "aptqa-antonyms-007",
+    "question": "Antonym for \"Old\":",
+    "options": [
+      "Ancient",
+      "New",
+      "Aged",
+      "Vintage"
+    ],
+    "correct_answer": 1,
+    "explanation": "Old means having existed for a long time. New is the opposite.",
+    "topic": "Antonyms",
+    "subtopic": "Antonyms",
+    "category": "Verbal Ability",
+    "difficulty": "Easy",
+    "estimated_time_seconds": 75,
+    "source_type": "Aptitude-QA (Prathamesh25/aptitude-qa-dataset)",
+    "tags": [
+      "aptitude-qa",
+      "antonyms",
+      "01-basic"
+    ],
+    "target_roles": [],
+    "source": "Aptitude-QA dataset",
+    "license": "Apache-2.0",
+    "attribution": "Prathamesh25/aptitude-qa-dataset (Hugging Face), imported and validated by GenAssess."
+  },
+  {
+    "id": "aptqa-antonyms-008",
+    "question": "Choose the antonym for \"Rich\":",
+    "options": [
+      "Wealthy",
+      "Poor",
+      "Affluent",
+      "Prosperous"
+    ],
+    "correct_answer": 1,
+    "explanation": "Rich means having wealth. Poor is the opposite.",
+    "topic": "Antonyms",
+    "subtopic": "Antonyms",
+    "category": "Verbal Ability",
+    "difficulty": "Easy",
+    "estimated_time_seconds": 75,
+    "source_type": "Aptitude-QA (Prathamesh25/aptitude-qa-dataset)",
+    "tags": [
+      "aptitude-qa",
+      "antonyms",
+      "01-basic"
+    ],
+    "target_roles": [],
+    "source": "Aptitude-QA dataset",
+    "license": "Apache-2.0",
+    "attribution": "Prathamesh25/aptitude-qa-dataset (Hugging Face), imported and validated by GenAssess."
+  },
+  {
+    "id": "aptqa-antonyms-009",
+    "question": "Antonym for \"Tall\":",
+    "options": [
+      "High",
+      "Short",
+      "Long",
+      "Elevated"
+    ],
+    "correct_answer": 1,
+    "explanation": "Tall means having great height. Short is the opposite.",
+    "topic": "Antonyms",
+    "subtopic": "Antonyms",
+    "category": "Verbal Ability",
+    "difficulty": "Easy",
+    "estimated_time_seconds": 75,
+    "source_type": "Aptitude-QA (Prathamesh25/aptitude-qa-dataset)",
+    "tags": [
+      "aptitude-qa",
+      "antonyms",
+      "01-basic"
+    ],
+    "target_roles": [],
+    "source": "Aptitude-QA dataset",
+    "license": "Apache-2.0",
+    "attribution": "Prathamesh25/aptitude-qa-dataset (Hugging Face), imported and validated by GenAssess."
+  },
+  {
+    "id": "aptqa-antonyms-010",
+    "question": "Find the antonym for \"Easy\":",
+    "options": [
+      "Simple",
+      "Difficult",
+      "Effortless",
+      "Smooth"
+    ],
+    "correct_answer": 1,
+    "explanation": "Easy means not hard. Difficult is the opposite.",
+    "topic": "Antonyms",
+    "subtopic": "Antonyms",
+    "category": "Verbal Ability",
+    "difficulty": "Easy",
+    "estimated_time_seconds": 75,
+    "source_type": "Aptitude-QA (Prathamesh25/aptitude-qa-dataset)",
+    "tags": [
+      "aptitude-qa",
+      "antonyms",
+      "01-basic"
+    ],
+    "target_roles": [],
+    "source": "Aptitude-QA dataset",
+    "license": "Apache-2.0",
+    "attribution": "Prathamesh25/aptitude-qa-dataset (Hugging Face), imported and validated by GenAssess."
+  },
+  {
+    "id": "aptqa-sentence-completion-001",
+    "question": "She was ______ to attend the meeting due to her busy schedule.",
+    "options": [
+      "Able",
+      "Unable",
+      "Willing",
+      "Eager"
+    ],
+    "correct_answer": 1,
+    "explanation": "The context suggests she couldn’t attend due to busyness. Unable fits best.",
+    "topic": "Sentence Completion",
+    "subtopic": "Sentence Completion",
+    "category": "Verbal Ability",
+    "difficulty": "Easy",
+    "estimated_time_seconds": 75,
+    "source_type": "Aptitude-QA (Prathamesh25/aptitude-qa-dataset)",
+    "tags": [
+      "aptitude-qa",
+      "sentence completion",
+      "01-basic"
+    ],
+    "target_roles": [],
+    "source": "Aptitude-QA dataset",
+    "license": "Apache-2.0",
+    "attribution": "Prathamesh25/aptitude-qa-dataset (Hugging Face), imported and validated by GenAssess."
+  },
+  {
+    "id": "aptqa-sentence-completion-002",
+    "question": "His ______ attitude made everyone feel welcome.",
+    "options": [
+      "Cold",
+      "Friendly",
+      "Rude",
+      "Distant"
+    ],
+    "correct_answer": 1,
+    "explanation": "Feeling welcome implies a positive attitude. Friendly is appropriate.",
+    "topic": "Sentence Completion",
+    "subtopic": "Sentence Completion",
+    "category": "Verbal Ability",
+    "difficulty": "Easy",
+    "estimated_time_seconds": 75,
+    "source_type": "Aptitude-QA (Prathamesh25/aptitude-qa-dataset)",
+    "tags": [
+      "aptitude-qa",
+      "sentence completion",
+      "01-basic"
+    ],
+    "target_roles": [],
+    "source": "Aptitude-QA dataset",
+    "license": "Apache-2.0",
+    "attribution": "Prathamesh25/aptitude-qa-dataset (Hugging Face), imported and validated by GenAssess."
+  },
+  {
+    "id": "aptqa-sentence-completion-003",
+    "question": "The team worked ______ to complete the project on time.",
+    "options": [
+      "Lazily",
+      "Diligently",
+      "Carelessly",
+      "Slowly"
+    ],
+    "correct_answer": 1,
+    "explanation": "Completing on time suggests hard work. Diligently fits best.",
+    "topic": "Sentence Completion",
+    "subtopic": "Sentence Completion",
+    "category": "Verbal Ability",
+    "difficulty": "Easy",
+    "estimated_time_seconds": 75,
+    "source_type": "Aptitude-QA (Prathamesh25/aptitude-qa-dataset)",
+    "tags": [
+      "aptitude-qa",
+      "sentence completion",
+      "01-basic"
+    ],
+    "target_roles": [],
+    "source": "Aptitude-QA dataset",
+    "license": "Apache-2.0",
+    "attribution": "Prathamesh25/aptitude-qa-dataset (Hugging Face), imported and validated by GenAssess."
+  },
+  {
+    "id": "aptqa-sentence-completion-004",
+    "question": "The movie was so ______ that I fell asleep.",
+    "options": [
+      "Exciting",
+      "Boring",
+      "Thrilling",
+      "Engaging"
+    ],
+    "correct_answer": 1,
+    "explanation": "Falling asleep implies lack of interest. Boring is appropriate.",
+    "topic": "Sentence Completion",
+    "subtopic": "Sentence Completion",
+    "category": "Verbal Ability",
+    "difficulty": "Easy",
+    "estimated_time_seconds": 75,
+    "source_type": "Aptitude-QA (Prathamesh25/aptitude-qa-dataset)",
+    "tags": [
+      "aptitude-qa",
+      "sentence completion",
+      "01-basic"
+    ],
+    "target_roles": [],
+    "source": "Aptitude-QA dataset",
+    "license": "Apache-2.0",
+    "attribution": "Prathamesh25/aptitude-qa-dataset (Hugging Face), imported and validated by GenAssess."
+  },
+  {
+    "id": "aptqa-sentence-completion-005",
+    "question": "He spoke with such ______ that everyone listened attentively.",
+    "options": [
+      "Confusion",
+      "Clarity",
+      "Hesitation",
+      "Doubt"
+    ],
+    "correct_answer": 1,
+    "explanation": "Attentive listening suggests clear speech. Clarity fits best.",
+    "topic": "Sentence Completion",
+    "subtopic": "Sentence Completion",
+    "category": "Verbal Ability",
+    "difficulty": "Easy",
+    "estimated_time_seconds": 75,
+    "source_type": "Aptitude-QA (Prathamesh25/aptitude-qa-dataset)",
+    "tags": [
+      "aptitude-qa",
+      "sentence completion",
+      "01-basic"
+    ],
+    "target_roles": [],
+    "source": "Aptitude-QA dataset",
+    "license": "Apache-2.0",
+    "attribution": "Prathamesh25/aptitude-qa-dataset (Hugging Face), imported and validated by GenAssess."
+  },
+  {
+    "id": "aptqa-sentence-completion-006",
+    "question": "The instructions were ______ and easy to follow.",
+    "options": [
+      "Vague",
+      "Clear",
+      "Complex",
+      "Confusing"
+    ],
+    "correct_answer": 1,
+    "explanation": "Easy to follow implies simplicity. Clear is appropriate.",
+    "topic": "Sentence Completion",
+    "subtopic": "Sentence Completion",
+    "category": "Verbal Ability",
+    "difficulty": "Easy",
+    "estimated_time_seconds": 75,
+    "source_type": "Aptitude-QA (Prathamesh25/aptitude-qa-dataset)",
+    "tags": [
+      "aptitude-qa",
+      "sentence completion",
+      "01-basic"
+    ],
+    "target_roles": [],
+    "source": "Aptitude-QA dataset",
+    "license": "Apache-2.0",
+    "attribution": "Prathamesh25/aptitude-qa-dataset (Hugging Face), imported and validated by GenAssess."
+  },
+  {
+    "id": "aptqa-sentence-completion-007",
+    "question": "She felt ______ after receiving the award.",
+    "options": [
+      "Sad",
+      "Elated",
+      "Angry",
+      "Tired"
+    ],
+    "correct_answer": 1,
+    "explanation": "Receiving an award suggests happiness. Elated fits best.",
+    "topic": "Sentence Completion",
+    "subtopic": "Sentence Completion",
+    "category": "Verbal Ability",
+    "difficulty": "Easy",
+    "estimated_time_seconds": 75,
+    "source_type": "Aptitude-QA (Prathamesh25/aptitude-qa-dataset)",
+    "tags": [
+      "aptitude-qa",
+      "sentence completion",
+      "01-basic"
+    ],
+    "target_roles": [],
+    "source": "Aptitude-QA dataset",
+    "license": "Apache-2.0",
+    "attribution": "Prathamesh25/aptitude-qa-dataset (Hugging Face), imported and validated by GenAssess."
+  },
+  {
+    "id": "aptqa-sentence-completion-008",
+    "question": "The room was ______ after the children left.",
+    "options": [
+      "Tidy",
+      "Messy",
+      "Clean",
+      "Organized"
+    ],
+    "correct_answer": 1,
+    "explanation": "Children leaving often implies disorder. Messy is appropriate.",
+    "topic": "Sentence Completion",
+    "subtopic": "Sentence Completion",
+    "category": "Verbal Ability",
+    "difficulty": "Easy",
+    "estimated_time_seconds": 75,
+    "source_type": "Aptitude-QA (Prathamesh25/aptitude-qa-dataset)",
+    "tags": [
+      "aptitude-qa",
+      "sentence completion",
+      "01-basic"
+    ],
+    "target_roles": [],
+    "source": "Aptitude-QA dataset",
+    "license": "Apache-2.0",
+    "attribution": "Prathamesh25/aptitude-qa-dataset (Hugging Face), imported and validated by GenAssess."
+  },
+  {
+    "id": "aptqa-sentence-completion-009",
+    "question": "His ______ behavior annoyed everyone.",
+    "options": [
+      "Polite",
+      "Rude",
+      "Kind",
+      "Gentle"
+    ],
+    "correct_answer": 1,
+    "explanation": "Annoying suggests negative behavior. Rude fits best.",
+    "topic": "Sentence Completion",
+    "subtopic": "Sentence Completion",
+    "category": "Verbal Ability",
+    "difficulty": "Easy",
+    "estimated_time_seconds": 75,
+    "source_type": "Aptitude-QA (Prathamesh25/aptitude-qa-dataset)",
+    "tags": [
+      "aptitude-qa",
+      "sentence completion",
+      "01-basic"
+    ],
+    "target_roles": [],
+    "source": "Aptitude-QA dataset",
+    "license": "Apache-2.0",
+    "attribution": "Prathamesh25/aptitude-qa-dataset (Hugging Face), imported and validated by GenAssess."
+  },
+  {
+    "id": "aptqa-sentence-completion-010",
+    "question": "The weather was ______ for a picnic.",
+    "options": [
+      "Terrible",
+      "Perfect",
+      "Cold",
+      "Rainy"
+    ],
+    "correct_answer": 1,
+    "explanation": "A picnic implies good weather. Perfect is appropriate.",
+    "topic": "Sentence Completion",
+    "subtopic": "Sentence Completion",
+    "category": "Verbal Ability",
+    "difficulty": "Easy",
+    "estimated_time_seconds": 75,
+    "source_type": "Aptitude-QA (Prathamesh25/aptitude-qa-dataset)",
+    "tags": [
+      "aptitude-qa",
+      "sentence completion",
+      "01-basic"
+    ],
+    "target_roles": [],
+    "source": "Aptitude-QA dataset",
+    "license": "Apache-2.0",
+    "attribution": "Prathamesh25/aptitude-qa-dataset (Hugging Face), imported and validated by GenAssess."
+  },
+  {
+    "id": "aptqa-cloze-test-001",
+    "question": "Choose the word for __71__:",
+    "options": [
+      "Runs",
+      "Goes",
+      "Walks",
+      "Jumps"
+    ],
+    "correct_answer": 1,
+    "explanation": "\"To the park\" suggests movement. Goes is most appropriate.",
+    "topic": "Cloze Test",
+    "subtopic": "Cloze Test",
+    "category": "Verbal Ability",
+    "difficulty": "Easy",
+    "estimated_time_seconds": 75,
+    "source_type": "Aptitude-QA (Prathamesh25/aptitude-qa-dataset)",
+    "tags": [
+      "aptitude-qa",
+      "cloze test",
+      "01-basic"
+    ],
+    "target_roles": [],
+    "source": "Aptitude-QA dataset",
+    "license": "Apache-2.0",
+    "attribution": "Prathamesh25/aptitude-qa-dataset (Hugging Face), imported and validated by GenAssess."
+  },
+  {
+    "id": "aptqa-cloze-test-002",
+    "question": "Choose the word for __72__:",
+    "options": [
+      "Takes",
+      "Brings",
+      "Carries",
+      "Holds"
+    ],
+    "correct_answer": 0,
+    "explanation": "Bringing a dog implies Takes.",
+    "topic": "Cloze Test",
+    "subtopic": "Cloze Test",
+    "category": "Verbal Ability",
+    "difficulty": "Easy",
+    "estimated_time_seconds": 75,
+    "source_type": "Aptitude-QA (Prathamesh25/aptitude-qa-dataset)",
+    "tags": [
+      "aptitude-qa",
+      "cloze test",
+      "01-basic"
+    ],
+    "target_roles": [],
+    "source": "Aptitude-QA dataset",
+    "license": "Apache-2.0",
+    "attribution": "Prathamesh25/aptitude-qa-dataset (Hugging Face), imported and validated by GenAssess."
+  },
+  {
+    "id": "aptqa-cloze-test-003",
+    "question": "Choose the word for __73__:",
+    "options": [
+      "Sit",
+      "Play",
+      "Sleep",
+      "Eat"
+    ],
+    "correct_answer": 1,
+    "explanation": "An hour in the park suggests Play.",
+    "topic": "Cloze Test",
+    "subtopic": "Cloze Test",
+    "category": "Verbal Ability",
+    "difficulty": "Easy",
+    "estimated_time_seconds": 75,
+    "source_type": "Aptitude-QA (Prathamesh25/aptitude-qa-dataset)",
+    "tags": [
+      "aptitude-qa",
+      "cloze test",
+      "01-basic"
+    ],
+    "target_roles": [],
+    "source": "Aptitude-QA dataset",
+    "license": "Apache-2.0",
+    "attribution": "Prathamesh25/aptitude-qa-dataset (Hugging Face), imported and validated by GenAssess."
+  },
+  {
+    "id": "aptqa-cloze-test-004",
+    "question": "Choose the word for __74__:",
+    "options": [
+      "Kick",
+      "Chase",
+      "Throw",
+      "Catch"
+    ],
+    "correct_answer": 1,
+    "explanation": "Dogs typically chase balls.",
+    "topic": "Cloze Test",
+    "subtopic": "Cloze Test",
+    "category": "Verbal Ability",
+    "difficulty": "Easy",
+    "estimated_time_seconds": 75,
+    "source_type": "Aptitude-QA (Prathamesh25/aptitude-qa-dataset)",
+    "tags": [
+      "aptitude-qa",
+      "cloze test",
+      "01-basic"
+    ],
+    "target_roles": [],
+    "source": "Aptitude-QA dataset",
+    "license": "Apache-2.0",
+    "attribution": "Prathamesh25/aptitude-qa-dataset (Hugging Face), imported and validated by GenAssess."
+  },
+  {
+    "id": "aptqa-cloze-test-005",
+    "question": "Choose the word for __75__:",
+    "options": [
+      "Sadly",
+      "Very",
+      "Never",
+      "Always"
+    ],
+    "correct_answer": 3,
+    "explanation": "Returning happy suggests Always.",
+    "topic": "Cloze Test",
+    "subtopic": "Cloze Test",
+    "category": "Verbal Ability",
+    "difficulty": "Easy",
+    "estimated_time_seconds": 75,
+    "source_type": "Aptitude-QA (Prathamesh25/aptitude-qa-dataset)",
+    "tags": [
+      "aptitude-qa",
+      "cloze test",
+      "01-basic"
+    ],
+    "target_roles": [],
+    "source": "Aptitude-QA dataset",
+    "license": "Apache-2.0",
+    "attribution": "Prathamesh25/aptitude-qa-dataset (Hugging Face), imported and validated by GenAssess."
+  },
+  {
+    "id": "aptqa-cloze-test-006",
+    "question": "Choose the word for __76__:",
+    "options": [
+      "Bad",
+      "Good",
+      "Poor",
+      "Weak"
+    ],
+    "correct_answer": 1,
+    "explanation": "Reading is positive. Good fits best.",
+    "topic": "Cloze Test",
+    "subtopic": "Cloze Test",
+    "category": "Verbal Ability",
+    "difficulty": "Easy",
+    "estimated_time_seconds": 75,
+    "source_type": "Aptitude-QA (Prathamesh25/aptitude-qa-dataset)",
+    "tags": [
+      "aptitude-qa",
+      "cloze test",
+      "01-basic"
+    ],
+    "target_roles": [],
+    "source": "Aptitude-QA dataset",
+    "license": "Apache-2.0",
+    "attribution": "Prathamesh25/aptitude-qa-dataset (Hugging Face), imported and validated by GenAssess."
+  },
+  {
+    "id": "aptqa-cloze-test-007",
+    "question": "Choose the word for __77__:",
+    "options": [
+      "Forget",
+      "Learn",
+      "Ignore",
+      "Lose"
+    ],
+    "correct_answer": 1,
+    "explanation": "Reading leads to learning.",
+    "topic": "Cloze Test",
+    "subtopic": "Cloze Test",
+    "category": "Verbal Ability",
+    "difficulty": "Easy",
+    "estimated_time_seconds": 75,
+    "source_type": "Aptitude-QA (Prathamesh25/aptitude-qa-dataset)",
+    "tags": [
+      "aptitude-qa",
+      "cloze test",
+      "01-basic"
+    ],
+    "target_roles": [],
+    "source": "Aptitude-QA dataset",
+    "license": "Apache-2.0",
+    "attribution": "Prathamesh25/aptitude-qa-dataset (Hugging Face), imported and validated by GenAssess."
+  },
+  {
+    "id": "aptqa-cloze-test-008",
+    "question": "Choose the word for __78__:",
+    "options": [
+      "Enemies",
+      "Friends",
+      "Strangers",
+      "Foes"
+    ],
+    "correct_answer": 1,
+    "explanation": "Guides are positive, like Friends.",
+    "topic": "Cloze Test",
+    "subtopic": "Cloze Test",
+    "category": "Verbal Ability",
+    "difficulty": "Easy",
+    "estimated_time_seconds": 75,
+    "source_type": "Aptitude-QA (Prathamesh25/aptitude-qa-dataset)",
+    "tags": [
+      "aptitude-qa",
+      "cloze test",
+      "01-basic"
+    ],
+    "target_roles": [],
+    "source": "Aptitude-QA dataset",
+    "license": "Apache-2.0",
+    "attribution": "Prathamesh25/aptitude-qa-dataset (Hugging Face), imported and validated by GenAssess."
+  },
+  {
+    "id": "aptqa-cloze-test-009",
+    "question": "Choose the word for __79__:",
+    "options": [
+      "Never",
+      "Wherever",
+      "Rarely",
+      "Seldom"
+    ],
+    "correct_answer": 1,
+    "explanation": "Freedom to read suggests Wherever.",
+    "topic": "Cloze Test",
+    "subtopic": "Cloze Test",
+    "category": "Verbal Ability",
+    "difficulty": "Easy",
+    "estimated_time_seconds": 75,
+    "source_type": "Aptitude-QA (Prathamesh25/aptitude-qa-dataset)",
+    "tags": [
+      "aptitude-qa",
+      "cloze test",
+      "01-basic"
+    ],
+    "target_roles": [],
+    "source": "Aptitude-QA dataset",
+    "license": "Apache-2.0",
+    "attribution": "Prathamesh25/aptitude-qa-dataset (Hugging Face), imported and validated by GenAssess."
+  },
+  {
+    "id": "aptqa-cloze-test-010",
+    "question": "Choose the word for __80__:",
+    "options": [
+      "Dull",
+      "Rich",
+      "Poor",
+      "Sad"
+    ],
+    "correct_answer": 1,
+    "explanation": "Reading enhances life, so Rich.",
+    "topic": "Cloze Test",
+    "subtopic": "Cloze Test",
+    "category": "Verbal Ability",
+    "difficulty": "Easy",
+    "estimated_time_seconds": 75,
+    "source_type": "Aptitude-QA (Prathamesh25/aptitude-qa-dataset)",
+    "tags": [
+      "aptitude-qa",
+      "cloze test",
+      "01-basic"
+    ],
+    "target_roles": [],
+    "source": "Aptitude-QA dataset",
+    "license": "Apache-2.0",
+    "attribution": "Prathamesh25/aptitude-qa-dataset (Hugging Face), imported and validated by GenAssess."
+  },
+  {
+    "id": "aptqa-idioms-phrases-001",
+    "question": "Meaning of “Break the ice”:",
+    "options": [
+      "Cause trouble",
+      "Start a conversation",
+      "End a fight",
+      "Make a mistake"
+    ],
+    "correct_answer": 1,
+    "explanation": "Break the ice means to initiate conversation.",
+    "topic": "Idioms/Phrases",
+    "subtopic": "Idioms/Phrases",
+    "category": "Verbal Ability",
+    "difficulty": "Easy",
+    "estimated_time_seconds": 75,
+    "source_type": "Aptitude-QA (Prathamesh25/aptitude-qa-dataset)",
+    "tags": [
+      "aptitude-qa",
+      "idioms/phrases",
+      "01-basic"
+    ],
+    "target_roles": [],
+    "source": "Aptitude-QA dataset",
+    "license": "Apache-2.0",
+    "attribution": "Prathamesh25/aptitude-qa-dataset (Hugging Face), imported and validated by GenAssess."
+  },
+  {
+    "id": "aptqa-idioms-phrases-002",
+    "question": "Meaning of “Piece of cake”:",
+    "options": [
+      "Difficult task",
+      "Easy task",
+      "Expensive item",
+      "Rare event"
+    ],
+    "correct_answer": 1,
+    "explanation": "Piece of cake means something easy.",
+    "topic": "Idioms/Phrases",
+    "subtopic": "Idioms/Phrases",
+    "category": "Verbal Ability",
+    "difficulty": "Easy",
+    "estimated_time_seconds": 75,
+    "source_type": "Aptitude-QA (Prathamesh25/aptitude-qa-dataset)",
+    "tags": [
+      "aptitude-qa",
+      "idioms/phrases",
+      "01-basic"
+    ],
+    "target_roles": [],
+    "source": "Aptitude-QA dataset",
+    "license": "Apache-2.0",
+    "attribution": "Prathamesh25/aptitude-qa-dataset (Hugging Face), imported and validated by GenAssess."
+  },
+  {
+    "id": "aptqa-idioms-phrases-003",
+    "question": "Meaning of “Spill the beans”:",
+    "options": [
+      "Reveal a secret",
+      "Cook food",
+      "Make a mess",
+      "Share money"
+    ],
+    "correct_answer": 0,
+    "explanation": "Spill the beans means to disclose a secret.",
+    "topic": "Idioms/Phrases",
+    "subtopic": "Idioms/Phrases",
+    "category": "Verbal Ability",
+    "difficulty": "Easy",
+    "estimated_time_seconds": 75,
+    "source_type": "Aptitude-QA (Prathamesh25/aptitude-qa-dataset)",
+    "tags": [
+      "aptitude-qa",
+      "idioms/phrases",
+      "01-basic"
+    ],
+    "target_roles": [],
+    "source": "Aptitude-QA dataset",
+    "license": "Apache-2.0",
+    "attribution": "Prathamesh25/aptitude-qa-dataset (Hugging Face), imported and validated by GenAssess."
+  },
+  {
+    "id": "aptqa-idioms-phrases-004",
+    "question": "Meaning of “Bite the bullet”:",
+    "options": [
+      "Avoid pain",
+      "Face a challenge",
+      "Run away",
+      "Eat quickly"
+    ],
+    "correct_answer": 1,
+    "explanation": "Bite the bullet means to endure a difficult situation.",
+    "topic": "Idioms/Phrases",
+    "subtopic": "Idioms/Phrases",
+    "category": "Verbal Ability",
+    "difficulty": "Easy",
+    "estimated_time_seconds": 75,
+    "source_type": "Aptitude-QA (Prathamesh25/aptitude-qa-dataset)",
+    "tags": [
+      "aptitude-qa",
+      "idioms/phrases",
+      "01-basic"
+    ],
+    "target_roles": [],
+    "source": "Aptitude-QA dataset",
+    "license": "Apache-2.0",
+    "attribution": "Prathamesh25/aptitude-qa-dataset (Hugging Face), imported and validated by GenAssess."
+  },
+  {
+    "id": "aptqa-idioms-phrases-005",
+    "question": "Meaning of “Under the weather”:",
+    "options": [
+      "Feeling well",
+      "Feeling unwell",
+      "Traveling",
+      "Working hard"
+    ],
+    "correct_answer": 1,
+    "explanation": "Under the weather means feeling sick.",
+    "topic": "Idioms/Phrases",
+    "subtopic": "Idioms/Phrases",
+    "category": "Verbal Ability",
+    "difficulty": "Easy",
+    "estimated_time_seconds": 75,
+    "source_type": "Aptitude-QA (Prathamesh25/aptitude-qa-dataset)",
+    "tags": [
+      "aptitude-qa",
+      "idioms/phrases",
+      "01-basic"
+    ],
+    "target_roles": [],
+    "source": "Aptitude-QA dataset",
+    "license": "Apache-2.0",
+    "attribution": "Prathamesh25/aptitude-qa-dataset (Hugging Face), imported and validated by GenAssess."
+  },
+  {
+    "id": "aptqa-idioms-phrases-006",
+    "question": "Meaning of “Kick the bucket”:",
+    "options": [
+      "Die",
+      "Start a fight",
+      "Win a game",
+      "Begin work"
+    ],
+    "correct_answer": 0,
+    "explanation": "Kick the bucket is a euphemism for dying.",
+    "topic": "Idioms/Phrases",
+    "subtopic": "Idioms/Phrases",
+    "category": "Verbal Ability",
+    "difficulty": "Easy",
+    "estimated_time_seconds": 75,
+    "source_type": "Aptitude-QA (Prathamesh25/aptitude-qa-dataset)",
+    "tags": [
+      "aptitude-qa",
+      "idioms/phrases",
+      "01-basic"
+    ],
+    "target_roles": [],
+    "source": "Aptitude-QA dataset",
+    "license": "Apache-2.0",
+    "attribution": "Prathamesh25/aptitude-qa-dataset (Hugging Face), imported and validated by GenAssess."
+  },
+  {
+    "id": "aptqa-idioms-phrases-007",
+    "question": "Meaning of “Let the cat out of the bag”:",
+    "options": [
+      "Buy a pet",
+      "Reveal a secret",
+      "Start a project",
+      "End a meeting"
+    ],
+    "correct_answer": 1,
+    "explanation": "Let the cat out of the bag means to reveal a secret.",
+    "topic": "Idioms/Phrases",
+    "subtopic": "Idioms/Phrases",
+    "category": "Verbal Ability",
+    "difficulty": "Easy",
+    "estimated_time_seconds": 75,
+    "source_type": "Aptitude-QA (Prathamesh25/aptitude-qa-dataset)",
+    "tags": [
+      "aptitude-qa",
+      "idioms/phrases",
+      "01-basic"
+    ],
+    "target_roles": [],
+    "source": "Aptitude-QA dataset",
+    "license": "Apache-2.0",
+    "attribution": "Prathamesh25/aptitude-qa-dataset (Hugging Face), imported and validated by GenAssess."
+  },
+  {
+    "id": "aptqa-idioms-phrases-008",
+    "question": "Meaning of “Hit the nail on the head”:",
+    "options": [
+      "Make a mistake",
+      "Be exactly right",
+      "Start a fight",
+      "Build something"
+    ],
+    "correct_answer": 1,
+    "explanation": "Hit the nail on the head means to be precise.",
+    "topic": "Idioms/Phrases",
+    "subtopic": "Idioms/Phrases",
+    "category": "Verbal Ability",
+    "difficulty": "Easy",
+    "estimated_time_seconds": 75,
+    "source_type": "Aptitude-QA (Prathamesh25/aptitude-qa-dataset)",
+    "tags": [
+      "aptitude-qa",
+      "idioms/phrases",
+      "01-basic"
+    ],
+    "target_roles": [],
+    "source": "Aptitude-QA dataset",
+    "license": "Apache-2.0",
+    "attribution": "Prathamesh25/aptitude-qa-dataset (Hugging Face), imported and validated by GenAssess."
+  },
+  {
+    "id": "aptqa-idioms-phrases-009",
+    "question": "Meaning of “Bark up the wrong tree”:",
+    "options": [
+      "Make a mistake",
+      "Climb a tree",
+      "Win a prize",
+      "Start a business"
+    ],
+    "correct_answer": 0,
+    "explanation": "Bark up the wrong tree means to be mistaken about something.",
+    "topic": "Idioms/Phrases",
+    "subtopic": "Idioms/Phrases",
+    "category": "Verbal Ability",
+    "difficulty": "Easy",
+    "estimated_time_seconds": 75,
+    "source_type": "Aptitude-QA (Prathamesh25/aptitude-qa-dataset)",
+    "tags": [
+      "aptitude-qa",
+      "idioms/phrases",
+      "01-basic"
+    ],
+    "target_roles": [],
+    "source": "Aptitude-QA dataset",
+    "license": "Apache-2.0",
+    "attribution": "Prathamesh25/aptitude-qa-dataset (Hugging Face), imported and validated by GenAssess."
+  },
+  {
+    "id": "aptqa-idioms-phrases-010",
+    "question": "Meaning of “A dime a dozen”:",
+    "options": [
+      "Very rare",
+      "Very common",
+      "Expensive",
+      "Unique"
+    ],
+    "correct_answer": 1,
+    "explanation": "A dime a dozen means very common.",
+    "topic": "Idioms/Phrases",
+    "subtopic": "Idioms/Phrases",
+    "category": "Verbal Ability",
+    "difficulty": "Easy",
+    "estimated_time_seconds": 75,
+    "source_type": "Aptitude-QA (Prathamesh25/aptitude-qa-dataset)",
+    "tags": [
+      "aptitude-qa",
+      "idioms/phrases",
+      "01-basic"
+    ],
+    "target_roles": [],
+    "source": "Aptitude-QA dataset",
+    "license": "Apache-2.0",
+    "attribution": "Prathamesh25/aptitude-qa-dataset (Hugging Face), imported and validated by GenAssess."
+  },
+  {
+    "id": "aptqa-synonyms-011",
+    "question": "Choose the synonym for \"Ephemeral\":",
+    "options": [
+      "Permanent",
+      "Transient",
+      "Enduring",
+      "Lasting"
+    ],
+    "correct_answer": 1,
+    "explanation": "Ephemeral means short-lived. Transient is the closest synonym.",
+    "topic": "Synonyms",
+    "subtopic": "Synonyms",
+    "category": "Verbal Ability",
+    "difficulty": "Medium",
+    "estimated_time_seconds": 75,
+    "source_type": "Aptitude-QA (Prathamesh25/aptitude-qa-dataset)",
+    "tags": [
+      "aptitude-qa",
+      "synonyms",
+      "02-intermediate"
+    ],
+    "target_roles": [],
+    "source": "Aptitude-QA dataset",
+    "license": "Apache-2.0",
+    "attribution": "Prathamesh25/aptitude-qa-dataset (Hugging Face), imported and validated by GenAssess."
+  },
+  {
+    "id": "aptqa-synonyms-012",
+    "question": "Find the synonym for \"Perspicuous\":",
+    "options": [
+      "Vague",
+      "Clear",
+      "Obscure",
+      "Complex"
+    ],
+    "correct_answer": 1,
+    "explanation": "Perspicuous means clearly expressed. Clear is the closest synonym.",
+    "topic": "Synonyms",
+    "subtopic": "Synonyms",
+    "category": "Verbal Ability",
+    "difficulty": "Medium",
+    "estimated_time_seconds": 75,
+    "source_type": "Aptitude-QA (Prathamesh25/aptitude-qa-dataset)",
+    "tags": [
+      "aptitude-qa",
+      "synonyms",
+      "02-intermediate"
+    ],
+    "target_roles": [],
+    "source": "Aptitude-QA dataset",
+    "license": "Apache-2.0",
+    "attribution": "Prathamesh25/aptitude-qa-dataset (Hugging Face), imported and validated by GenAssess."
+  },
+  {
+    "id": "aptqa-synonyms-013",
+    "question": "Synonym for \"Tenacious\":",
+    "options": [
+      "Yielding",
+      "Persistent",
+      "Weak",
+      "Flexible"
+    ],
+    "correct_answer": 1,
+    "explanation": "Tenacious means holding firm. Persistent is the closest synonym.",
+    "topic": "Synonyms",
+    "subtopic": "Synonyms",
+    "category": "Verbal Ability",
+    "difficulty": "Medium",
+    "estimated_time_seconds": 75,
+    "source_type": "Aptitude-QA (Prathamesh25/aptitude-qa-dataset)",
+    "tags": [
+      "aptitude-qa",
+      "synonyms",
+      "02-intermediate"
+    ],
+    "target_roles": [],
+    "source": "Aptitude-QA dataset",
+    "license": "Apache-2.0",
+    "attribution": "Prathamesh25/aptitude-qa-dataset (Hugging Face), imported and validated by GenAssess."
+  },
+  {
+    "id": "aptqa-synonyms-014",
+    "question": "Choose the synonym for \"Obstreperous\":",
+    "options": [
+      "Quiet",
+      "Noisy",
+      "Calm",
+      "Submissive"
+    ],
+    "correct_answer": 1,
+    "explanation": "Obstreperous means difficult to control and noisy. Noisy is the closest synonym.",
+    "topic": "Synonyms",
+    "subtopic": "Synonyms",
+    "category": "Verbal Ability",
+    "difficulty": "Medium",
+    "estimated_time_seconds": 75,
+    "source_type": "Aptitude-QA (Prathamesh25/aptitude-qa-dataset)",
+    "tags": [
+      "aptitude-qa",
+      "synonyms",
+      "02-intermediate"
+    ],
+    "target_roles": [],
+    "source": "Aptitude-QA dataset",
+    "license": "Apache-2.0",
+    "attribution": "Prathamesh25/aptitude-qa-dataset (Hugging Face), imported and validated by GenAssess."
+  },
+  {
+    "id": "aptqa-synonyms-015",
+    "question": "Synonym for \"Proclivity\":",
+    "options": [
+      "Aversion",
+      "Tendency",
+      "Dislike",
+      "Opposition"
+    ],
+    "correct_answer": 1,
+    "explanation": "Proclivity means a natural inclination. Tendency is the closest synonym.",
+    "topic": "Synonyms",
+    "subtopic": "Synonyms",
+    "category": "Verbal Ability",
+    "difficulty": "Medium",
+    "estimated_time_seconds": 75,
+    "source_type": "Aptitude-QA (Prathamesh25/aptitude-qa-dataset)",
+    "tags": [
+      "aptitude-qa",
+      "synonyms",
+      "02-intermediate"
+    ],
+    "target_roles": [],
+    "source": "Aptitude-QA dataset",
+    "license": "Apache-2.0",
+    "attribution": "Prathamesh25/aptitude-qa-dataset (Hugging Face), imported and validated by GenAssess."
+  },
+  {
+    "id": "aptqa-synonyms-016",
+    "question": "Find the synonym for \"Ebullient\":",
+    "options": [
+      "Depressed",
+      "Enthusiastic",
+      "Reserved",
+      "Somber"
+    ],
+    "correct_answer": 1,
+    "explanation": "Ebullient means cheerful and full of energy. Enthusiastic is the closest synonym.",
+    "topic": "Synonyms",
+    "subtopic": "Synonyms",
+    "category": "Verbal Ability",
+    "difficulty": "Medium",
+    "estimated_time_seconds": 75,
+    "source_type": "Aptitude-QA (Prathamesh25/aptitude-qa-dataset)",
+    "tags": [
+      "aptitude-qa",
+      "synonyms",
+      "02-intermediate"
+    ],
+    "target_roles": [],
+    "source": "Aptitude-QA dataset",
+    "license": "Apache-2.0",
+    "attribution": "Prathamesh25/aptitude-qa-dataset (Hugging Face), imported and validated by GenAssess."
+  },
+  {
+    "id": "aptqa-synonyms-017",
+    "question": "Synonym for \"Fastidious\":",
+    "options": [
+      "Careless",
+      "Meticulous",
+      "Hasty",
+      "Negligent"
+    ],
+    "correct_answer": 1,
+    "explanation": "Fastidious means very attentive to detail. Meticulous is the closest synonym.",
+    "topic": "Synonyms",
+    "subtopic": "Synonyms",
+    "category": "Verbal Ability",
+    "difficulty": "Medium",
+    "estimated_time_seconds": 75,
+    "source_type": "Aptitude-QA (Prathamesh25/aptitude-qa-dataset)",
+    "tags": [
+      "aptitude-qa",
+      "synonyms",
+      "02-intermediate"
+    ],
+    "target_roles": [],
+    "source": "Aptitude-QA dataset",
+    "license": "Apache-2.0",
+    "attribution": "Prathamesh25/aptitude-qa-dataset (Hugging Face), imported and validated by GenAssess."
+  },
+  {
+    "id": "aptqa-synonyms-018",
+    "question": "Choose the synonym for \"Quixotic\":",
+    "options": [
+      "Practical",
+      "Unrealistic",
+      "Sensible",
+      "Rational"
+    ],
+    "correct_answer": 1,
+    "explanation": "Quixotic means impractical or unrealistic. Unrealistic is the closest synonym.",
+    "topic": "Synonyms",
+    "subtopic": "Synonyms",
+    "category": "Verbal Ability",
+    "difficulty": "Medium",
+    "estimated_time_seconds": 75,
+    "source_type": "Aptitude-QA (Prathamesh25/aptitude-qa-dataset)",
+    "tags": [
+      "aptitude-qa",
+      "synonyms",
+      "02-intermediate"
+    ],
+    "target_roles": [],
+    "source": "Aptitude-QA dataset",
+    "license": "Apache-2.0",
+    "attribution": "Prathamesh25/aptitude-qa-dataset (Hugging Face), imported and validated by GenAssess."
+  },
+  {
+    "id": "aptqa-synonyms-019",
+    "question": "Synonym for \"Sagacious\":",
+    "options": [
+      "Foolish",
+      "Wise",
+      "Ignorant",
+      "Naive"
+    ],
+    "correct_answer": 1,
+    "explanation": "Sagacious means having keen judgment. Wise is the closest synonym.",
+    "topic": "Synonyms",
+    "subtopic": "Synonyms",
+    "category": "Verbal Ability",
+    "difficulty": "Medium",
+    "estimated_time_seconds": 75,
+    "source_type": "Aptitude-QA (Prathamesh25/aptitude-qa-dataset)",
+    "tags": [
+      "aptitude-qa",
+      "synonyms",
+      "02-intermediate"
+    ],
+    "target_roles": [],
+    "source": "Aptitude-QA dataset",
+    "license": "Apache-2.0",
+    "attribution": "Prathamesh25/aptitude-qa-dataset (Hugging Face), imported and validated by GenAssess."
+  },
+  {
+    "id": "aptqa-synonyms-020",
+    "question": "Find the synonym for \"Taciturn\":",
+    "options": [
+      "Talkative",
+      "Reserved",
+      "Outgoing",
+      "Loquacious"
+    ],
+    "correct_answer": 1,
+    "explanation": "Taciturn means silent or reserved in speech. Reserved is the closest synonym.",
+    "topic": "Synonyms",
+    "subtopic": "Synonyms",
+    "category": "Verbal Ability",
+    "difficulty": "Medium",
+    "estimated_time_seconds": 75,
+    "source_type": "Aptitude-QA (Prathamesh25/aptitude-qa-dataset)",
+    "tags": [
+      "aptitude-qa",
+      "synonyms",
+      "02-intermediate"
+    ],
+    "target_roles": [],
+    "source": "Aptitude-QA dataset",
+    "license": "Apache-2.0",
+    "attribution": "Prathamesh25/aptitude-qa-dataset (Hugging Face), imported and validated by GenAssess."
+  },
+  {
+    "id": "aptqa-antonyms-011",
+    "question": "Choose the antonym for \"Candid\":",
+    "options": [
+      "Honest",
+      "Deceptive",
+      "Sincere",
+      "Open"
+    ],
+    "correct_answer": 1,
+    "explanation": "Candid means truthful. Deceptive means misleading, the opposite.",
+    "topic": "Antonyms",
+    "subtopic": "Antonyms",
+    "category": "Verbal Ability",
+    "difficulty": "Medium",
+    "estimated_time_seconds": 75,
+    "source_type": "Aptitude-QA (Prathamesh25/aptitude-qa-dataset)",
+    "tags": [
+      "aptitude-qa",
+      "antonyms",
+      "02-intermediate"
+    ],
+    "target_roles": [],
+    "source": "Aptitude-QA dataset",
+    "license": "Apache-2.0",
+    "attribution": "Prathamesh25/aptitude-qa-dataset (Hugging Face), imported and validated by GenAssess."
+  },
+  {
+    "id": "aptqa-antonyms-012",
+    "question": "Find the antonym for \"Austere\":",
+    "options": [
+      "Harsh",
+      "Luxurious",
+      "Severe",
+      "Plain"
+    ],
+    "correct_answer": 1,
+    "explanation": "Austere means simple or severe. Luxurious is the opposite.",
+    "topic": "Antonyms",
+    "subtopic": "Antonyms",
+    "category": "Verbal Ability",
+    "difficulty": "Medium",
+    "estimated_time_seconds": 75,
+    "source_type": "Aptitude-QA (Prathamesh25/aptitude-qa-dataset)",
+    "tags": [
+      "aptitude-qa",
+      "antonyms",
+      "02-intermediate"
+    ],
+    "target_roles": [],
+    "source": "Aptitude-QA dataset",
+    "license": "Apache-2.0",
+    "attribution": "Prathamesh25/aptitude-qa-dataset (Hugging Face), imported and validated by GenAssess."
+  },
+  {
+    "id": "aptqa-antonyms-013",
+    "question": "Antonym for \"Eminent\":",
+    "options": [
+      "Prominent",
+      "Obscure",
+      "Notable",
+      "Distinguished"
+    ],
+    "correct_answer": 1,
+    "explanation": "Eminent means well-known. Obscure means unknown, the opposite.",
+    "topic": "Antonyms",
+    "subtopic": "Antonyms",
+    "category": "Verbal Ability",
+    "difficulty": "Medium",
+    "estimated_time_seconds": 75,
+    "source_type": "Aptitude-QA (Prathamesh25/aptitude-qa-dataset)",
+    "tags": [
+      "aptitude-qa",
+      "antonyms",
+      "02-intermediate"
+    ],
+    "target_roles": [],
+    "source": "Aptitude-QA dataset",
+    "license": "Apache-2.0",
+    "attribution": "Prathamesh25/aptitude-qa-dataset (Hugging Face), imported and validated by GenAssess."
+  },
+  {
+    "id": "aptqa-antonyms-014",
+    "question": "Choose the antonym for \"Prodigal\":",
+    "options": [
+      "Wasteful",
+      "Frugal",
+      "Extravagant",
+      "Lavish"
+    ],
+    "correct_answer": 1,
+    "explanation": "Prodigal means wasteful. Frugal means economical, the opposite.",
+    "topic": "Antonyms",
+    "subtopic": "Antonyms",
+    "category": "Verbal Ability",
+    "difficulty": "Medium",
+    "estimated_time_seconds": 75,
+    "source_type": "Aptitude-QA (Prathamesh25/aptitude-qa-dataset)",
+    "tags": [
+      "aptitude-qa",
+      "antonyms",
+      "02-intermediate"
+    ],
+    "target_roles": [],
+    "source": "Aptitude-QA dataset",
+    "license": "Apache-2.0",
+    "attribution": "Prathamesh25/aptitude-qa-dataset (Hugging Face), imported and validated by GenAssess."
+  },
+  {
+    "id": "aptqa-antonyms-015",
+    "question": "Antonym for \"Verbose\":",
+    "options": [
+      "Wordy",
+      "Concise",
+      "Talkative",
+      "Loquacious"
+    ],
+    "correct_answer": 1,
+    "explanation": "Verbose means using too many words. Concise means brief, the opposite.",
+    "topic": "Antonyms",
+    "subtopic": "Antonyms",
+    "category": "Verbal Ability",
+    "difficulty": "Medium",
+    "estimated_time_seconds": 75,
+    "source_type": "Aptitude-QA (Prathamesh25/aptitude-qa-dataset)",
+    "tags": [
+      "aptitude-qa",
+      "antonyms",
+      "02-intermediate"
+    ],
+    "target_roles": [],
+    "source": "Aptitude-QA dataset",
+    "license": "Apache-2.0",
+    "attribution": "Prathamesh25/aptitude-qa-dataset (Hugging Face), imported and validated by GenAssess."
+  },
+  {
+    "id": "aptqa-antonyms-016",
+    "question": "Find the antonym for \"Obsolete\":",
+    "options": [
+      "Outdated",
+      "Modern",
+      "Old",
+      "Ancient"
+    ],
+    "correct_answer": 1,
+    "explanation": "Obsolete means no longer in use. Modern is the opposite.",
+    "topic": "Antonyms",
+    "subtopic": "Antonyms",
+    "category": "Verbal Ability",
+    "difficulty": "Medium",
+    "estimated_time_seconds": 75,
+    "source_type": "Aptitude-QA (Prathamesh25/aptitude-qa-dataset)",
+    "tags": [
+      "aptitude-qa",
+      "antonyms",
+      "02-intermediate"
+    ],
+    "target_roles": [],
+    "source": "Aptitude-QA dataset",
+    "license": "Apache-2.0",
+    "attribution": "Prathamesh25/aptitude-qa-dataset (Hugging Face), imported and validated by GenAssess."
+  },
+  {
+    "id": "aptqa-antonyms-017",
+    "question": "Antonym for \"Zeal\":",
+    "options": [
+      "Passion",
+      "Apathy",
+      "Enthusiasm",
+      "Fervor"
+    ],
+    "correct_answer": 1,
+    "explanation": "Zeal means great enthusiasm. Apathy means lack of interest, the opposite.",
+    "topic": "Antonyms",
+    "subtopic": "Antonyms",
+    "category": "Verbal Ability",
+    "difficulty": "Medium",
+    "estimated_time_seconds": 75,
+    "source_type": "Aptitude-QA (Prathamesh25/aptitude-qa-dataset)",
+    "tags": [
+      "aptitude-qa",
+      "antonyms",
+      "02-intermediate"
+    ],
+    "target_roles": [],
+    "source": "Aptitude-QA dataset",
+    "license": "Apache-2.0",
+    "attribution": "Prathamesh25/aptitude-qa-dataset (Hugging Face), imported and validated by GenAssess."
+  },
+  {
+    "id": "aptqa-antonyms-018",
+    "question": "Choose the antonym for \"Vindictive\":",
+    "options": [
+      "Spiteful",
+      "Forgiving",
+      "Malicious",
+      "Revengeful"
+    ],
+    "correct_answer": 1,
+    "explanation": "Vindictive means seeking revenge. Forgiving is the opposite.",
+    "topic": "Antonyms",
+    "subtopic": "Antonyms",
+    "category": "Verbal Ability",
+    "difficulty": "Medium",
+    "estimated_time_seconds": 75,
+    "source_type": "Aptitude-QA (Prathamesh25/aptitude-qa-dataset)",
+    "tags": [
+      "aptitude-qa",
+      "antonyms",
+      "02-intermediate"
+    ],
+    "target_roles": [],
+    "source": "Aptitude-QA dataset",
+    "license": "Apache-2.0",
+    "attribution": "Prathamesh25/aptitude-qa-dataset (Hugging Face), imported and validated by GenAssess."
+  },
+  {
+    "id": "aptqa-antonyms-019",
+    "question": "Antonym for \"Candid\":",
+    "options": [
+      "Frank",
+      "Secretive",
+      "Honest",
+      "Straightforward"
+    ],
+    "correct_answer": 1,
+    "explanation": "Candid means open and honest. Secretive means withholding information, the opposite.",
+    "topic": "Antonyms",
+    "subtopic": "Antonyms",
+    "category": "Verbal Ability",
+    "difficulty": "Medium",
+    "estimated_time_seconds": 75,
+    "source_type": "Aptitude-QA (Prathamesh25/aptitude-qa-dataset)",
+    "tags": [
+      "aptitude-qa",
+      "antonyms",
+      "02-intermediate"
+    ],
+    "target_roles": [],
+    "source": "Aptitude-QA dataset",
+    "license": "Apache-2.0",
+    "attribution": "Prathamesh25/aptitude-qa-dataset (Hugging Face), imported and validated by GenAssess."
+  },
+  {
+    "id": "aptqa-antonyms-020",
+    "question": "Find the antonym for \"Transient\":",
+    "options": [
+      "Fleeting",
+      "Permanent",
+      "Temporary",
+      "Brief"
+    ],
+    "correct_answer": 1,
+    "explanation": "Transient means short-lived. Permanent is the opposite.",
+    "topic": "Antonyms",
+    "subtopic": "Antonyms",
+    "category": "Verbal Ability",
+    "difficulty": "Medium",
+    "estimated_time_seconds": 75,
+    "source_type": "Aptitude-QA (Prathamesh25/aptitude-qa-dataset)",
+    "tags": [
+      "aptitude-qa",
+      "antonyms",
+      "02-intermediate"
+    ],
+    "target_roles": [],
+    "source": "Aptitude-QA dataset",
+    "license": "Apache-2.0",
+    "attribution": "Prathamesh25/aptitude-qa-dataset (Hugging Face), imported and validated by GenAssess."
+  },
+  {
+    "id": "aptqa-sentence-completion-011",
+    "question": "Despite his ______ demeanor, he was deeply concerned about the project’s success.",
+    "options": [
+      "Enthusiastic",
+      "Nonchalant",
+      "Passionate",
+      "Eager"
+    ],
+    "correct_answer": 1,
+    "explanation": "Contrast with “deeply concerned” suggests a lack of outward emotion. Nonchalant (carefree) fits best.",
+    "topic": "Sentence Completion",
+    "subtopic": "Sentence Completion",
+    "category": "Verbal Ability",
+    "difficulty": "Medium",
+    "estimated_time_seconds": 75,
+    "source_type": "Aptitude-QA (Prathamesh25/aptitude-qa-dataset)",
+    "tags": [
+      "aptitude-qa",
+      "sentence completion",
+      "02-intermediate"
+    ],
+    "target_roles": [],
+    "source": "Aptitude-QA dataset",
+    "license": "Apache-2.0",
+    "attribution": "Prathamesh25/aptitude-qa-dataset (Hugging Face), imported and validated by GenAssess."
+  },
+  {
+    "id": "aptqa-sentence-completion-012",
+    "question": "The lecture was so ______ that many students lost interest.",
+    "options": [
+      "Engaging",
+      "Tedious",
+      "Inspiring",
+      "Lively"
+    ],
+    "correct_answer": 1,
+    "explanation": "Losing interest implies boring content. Tedious is appropriate.",
+    "topic": "Sentence Completion",
+    "subtopic": "Sentence Completion",
+    "category": "Verbal Ability",
+    "difficulty": "Medium",
+    "estimated_time_seconds": 75,
+    "source_type": "Aptitude-QA (Prathamesh25/aptitude-qa-dataset)",
+    "tags": [
+      "aptitude-qa",
+      "sentence completion",
+      "02-intermediate"
+    ],
+    "target_roles": [],
+    "source": "Aptitude-QA dataset",
+    "license": "Apache-2.0",
+    "attribution": "Prathamesh25/aptitude-qa-dataset (Hugging Face), imported and validated by GenAssess."
+  },
+  {
+    "id": "aptqa-sentence-completion-013",
+    "question": "Her ______ approach to problem-solving earned her respect from colleagues.",
+    "options": [
+      "Hasty",
+      "Methodical",
+      "Careless",
+      "Impulsive"
+    ],
+    "correct_answer": 1,
+    "explanation": "Earning respect suggests careful work. Methodical fits best.",
+    "topic": "Sentence Completion",
+    "subtopic": "Sentence Completion",
+    "category": "Verbal Ability",
+    "difficulty": "Medium",
+    "estimated_time_seconds": 75,
+    "source_type": "Aptitude-QA (Prathamesh25/aptitude-qa-dataset)",
+    "tags": [
+      "aptitude-qa",
+      "sentence completion",
+      "02-intermediate"
+    ],
+    "target_roles": [],
+    "source": "Aptitude-QA dataset",
+    "license": "Apache-2.0",
+    "attribution": "Prathamesh25/aptitude-qa-dataset (Hugging Face), imported and validated by GenAssess."
+  },
+  {
+    "id": "aptqa-sentence-completion-014",
+    "question": "The manager’s ______ decision led to unexpected profits.",
+    "options": [
+      "Reckless",
+      "Astute",
+      "Foolish",
+      "Hasty"
+    ],
+    "correct_answer": 1,
+    "explanation": "Unexpected profits imply a smart choice. Astute (shrewd) is appropriate.",
+    "topic": "Sentence Completion",
+    "subtopic": "Sentence Completion",
+    "category": "Verbal Ability",
+    "difficulty": "Medium",
+    "estimated_time_seconds": 75,
+    "source_type": "Aptitude-QA (Prathamesh25/aptitude-qa-dataset)",
+    "tags": [
+      "aptitude-qa",
+      "sentence completion",
+      "02-intermediate"
+    ],
+    "target_roles": [],
+    "source": "Aptitude-QA dataset",
+    "license": "Apache-2.0",
+    "attribution": "Prathamesh25/aptitude-qa-dataset (Hugging Face), imported and validated by GenAssess."
+  },
+  {
+    "id": "aptqa-sentence-completion-015",
+    "question": "The novel’s ______ plot kept readers engaged until the last page.",
+    "options": [
+      "Predictable",
+      "Intricate",
+      "Simple",
+      "Boring"
+    ],
+    "correct_answer": 1,
+    "explanation": "Keeping readers engaged suggests complexity. Intricate fits best.",
+    "topic": "Sentence Completion",
+    "subtopic": "Sentence Completion",
+    "category": "Verbal Ability",
+    "difficulty": "Medium",
+    "estimated_time_seconds": 75,
+    "source_type": "Aptitude-QA (Prathamesh25/aptitude-qa-dataset)",
+    "tags": [
+      "aptitude-qa",
+      "sentence completion",
+      "02-intermediate"
+    ],
+    "target_roles": [],
+    "source": "Aptitude-QA dataset",
+    "license": "Apache-2.0",
+    "attribution": "Prathamesh25/aptitude-qa-dataset (Hugging Face), imported and validated by GenAssess."
+  },
+  {
+    "id": "aptqa-sentence-completion-016",
+    "question": "His ______ remarks offended the audience.",
+    "options": [
+      "Polite",
+      "Caustic",
+      "Kind",
+      "Gentle"
+    ],
+    "correct_answer": 1,
+    "explanation": "Offending suggests harsh words. Caustic (biting) is appropriate.",
+    "topic": "Sentence Completion",
+    "subtopic": "Sentence Completion",
+    "category": "Verbal Ability",
+    "difficulty": "Medium",
+    "estimated_time_seconds": 75,
+    "source_type": "Aptitude-QA (Prathamesh25/aptitude-qa-dataset)",
+    "tags": [
+      "aptitude-qa",
+      "sentence completion",
+      "02-intermediate"
+    ],
+    "target_roles": [],
+    "source": "Aptitude-QA dataset",
+    "license": "Apache-2.0",
+    "attribution": "Prathamesh25/aptitude-qa-dataset (Hugging Face), imported and validated by GenAssess."
+  },
+  {
+    "id": "aptqa-sentence-completion-017",
+    "question": "The team’s ______ efforts resulted in a flawless presentation.",
+    "options": [
+      "Disorganized",
+      "Concerted",
+      "Haphazard",
+      "Careless"
+    ],
+    "correct_answer": 1,
+    "explanation": "Flawless suggests coordinated work. Concerted fits best.",
+    "topic": "Sentence Completion",
+    "subtopic": "Sentence Completion",
+    "category": "Verbal Ability",
+    "difficulty": "Medium",
+    "estimated_time_seconds": 75,
+    "source_type": "Aptitude-QA (Prathamesh25/aptitude-qa-dataset)",
+    "tags": [
+      "aptitude-qa",
+      "sentence completion",
+      "02-intermediate"
+    ],
+    "target_roles": [],
+    "source": "Aptitude-QA dataset",
+    "license": "Apache-2.0",
+    "attribution": "Prathamesh25/aptitude-qa-dataset (Hugging Face), imported and validated by GenAssess."
+  },
+  {
+    "id": "aptqa-sentence-completion-018",
+    "question": "She handled the crisis with ______ composure.",
+    "options": [
+      "Nervous",
+      "Remarkable",
+      "Fragile",
+      "Unsteady"
+    ],
+    "correct_answer": 1,
+    "explanation": "Handling a crisis well suggests calmness. Remarkable fits best.",
+    "topic": "Sentence Completion",
+    "subtopic": "Sentence Completion",
+    "category": "Verbal Ability",
+    "difficulty": "Medium",
+    "estimated_time_seconds": 75,
+    "source_type": "Aptitude-QA (Prathamesh25/aptitude-qa-dataset)",
+    "tags": [
+      "aptitude-qa",
+      "sentence completion",
+      "02-intermediate"
+    ],
+    "target_roles": [],
+    "source": "Aptitude-QA dataset",
+    "license": "Apache-2.0",
+    "attribution": "Prathamesh25/aptitude-qa-dataset (Hugging Face), imported and validated by GenAssess."
+  },
+  {
+    "id": "aptqa-sentence-completion-019",
+    "question": "The politician’s ______ promises failed to convince voters.",
+    "options": [
+      "Sincere",
+      "Hollow",
+      "Genuine",
+      "Heartfelt"
+    ],
+    "correct_answer": 1,
+    "explanation": "Failing to convince suggests lack of sincerity. Hollow is appropriate.",
+    "topic": "Sentence Completion",
+    "subtopic": "Sentence Completion",
+    "category": "Verbal Ability",
+    "difficulty": "Medium",
+    "estimated_time_seconds": 75,
+    "source_type": "Aptitude-QA (Prathamesh25/aptitude-qa-dataset)",
+    "tags": [
+      "aptitude-qa",
+      "sentence completion",
+      "02-intermediate"
+    ],
+    "target_roles": [],
+    "source": "Aptitude-QA dataset",
+    "license": "Apache-2.0",
+    "attribution": "Prathamesh25/aptitude-qa-dataset (Hugging Face), imported and validated by GenAssess."
+  },
+  {
+    "id": "aptqa-sentence-completion-020",
+    "question": "His ______ attitude made negotiations difficult.",
+    "options": [
+      "Flexible",
+      "Inflexible",
+      "Cooperative",
+      "Amiable"
+    ],
+    "correct_answer": 1,
+    "explanation": "Difficult negotiations suggest rigidity. Inflexible fits best.",
+    "topic": "Sentence Completion",
+    "subtopic": "Sentence Completion",
+    "category": "Verbal Ability",
+    "difficulty": "Medium",
+    "estimated_time_seconds": 75,
+    "source_type": "Aptitude-QA (Prathamesh25/aptitude-qa-dataset)",
+    "tags": [
+      "aptitude-qa",
+      "sentence completion",
+      "02-intermediate"
+    ],
+    "target_roles": [],
+    "source": "Aptitude-QA dataset",
+    "license": "Apache-2.0",
+    "attribution": "Prathamesh25/aptitude-qa-dataset (Hugging Face), imported and validated by GenAssess."
+  },
+  {
+    "id": "aptqa-cloze-test-011",
+    "question": "Choose the word for __71__:",
+    "options": [
+      "Ignore",
+      "Explore",
+      "Avoid",
+      "Reject"
+    ],
+    "correct_answer": 1,
+    "explanation": "Travelling involves discovering cultures. Explore fits best.",
+    "topic": "Cloze Test",
+    "subtopic": "Cloze Test",
+    "category": "Verbal Ability",
+    "difficulty": "Medium",
+    "estimated_time_seconds": 75,
+    "source_type": "Aptitude-QA (Prathamesh25/aptitude-qa-dataset)",
+    "tags": [
+      "aptitude-qa",
+      "cloze test",
+      "02-intermediate"
+    ],
+    "target_roles": [],
+    "source": "Aptitude-QA dataset",
+    "license": "Apache-2.0",
+    "attribution": "Prathamesh25/aptitude-qa-dataset (Hugging Face), imported and validated by GenAssess."
+  },
+  {
+    "id": "aptqa-cloze-test-012",
+    "question": "Choose the word for __72__:",
+    "options": [
+      "Narrows",
+      "Broadens",
+      "Limits",
+      "Restricts"
+    ],
+    "correct_answer": 1,
+    "explanation": "New experiences expand views. Broadens is appropriate.",
+    "topic": "Cloze Test",
+    "subtopic": "Cloze Test",
+    "category": "Verbal Ability",
+    "difficulty": "Medium",
+    "estimated_time_seconds": 75,
+    "source_type": "Aptitude-QA (Prathamesh25/aptitude-qa-dataset)",
+    "tags": [
+      "aptitude-qa",
+      "cloze test",
+      "02-intermediate"
+    ],
+    "target_roles": [],
+    "source": "Aptitude-QA dataset",
+    "license": "Apache-2.0",
+    "attribution": "Prathamesh25/aptitude-qa-dataset (Hugging Face), imported and validated by GenAssess."
+  },
+  {
+    "id": "aptqa-cloze-test-013",
+    "question": "Choose the word for __73__:",
+    "options": [
+      "Dislike",
+      "Appreciate",
+      "Criticize",
+      "Ignore"
+    ],
+    "correct_answer": 1,
+    "explanation": "Learning suggests positive regard. Appreciate fits best.",
+    "topic": "Cloze Test",
+    "subtopic": "Cloze Test",
+    "category": "Verbal Ability",
+    "difficulty": "Medium",
+    "estimated_time_seconds": 75,
+    "source_type": "Aptitude-QA (Prathamesh25/aptitude-qa-dataset)",
+    "tags": [
+      "aptitude-qa",
+      "cloze test",
+      "02-intermediate"
+    ],
+    "target_roles": [],
+    "source": "Aptitude-QA dataset",
+    "license": "Apache-2.0",
+    "attribution": "Prathamesh25/aptitude-qa-dataset (Hugging Face), imported and validated by GenAssess."
+  },
+  {
+    "id": "aptqa-cloze-test-014",
+    "question": "Choose the word for __74__:",
+    "options": [
+      "Easy",
+      "Challenging",
+      "Simple",
+      "Effortless"
+    ],
+    "correct_answer": 1,
+    "explanation": "Poor planning leads to difficulties. Challenging is appropriate.",
+    "topic": "Cloze Test",
+    "subtopic": "Cloze Test",
+    "category": "Verbal Ability",
+    "difficulty": "Medium",
+    "estimated_time_seconds": 75,
+    "source_type": "Aptitude-QA (Prathamesh25/aptitude-qa-dataset)",
+    "tags": [
+      "aptitude-qa",
+      "cloze test",
+      "02-intermediate"
+    ],
+    "target_roles": [],
+    "source": "Aptitude-QA dataset",
+    "license": "Apache-2.0",
+    "attribution": "Prathamesh25/aptitude-qa-dataset (Hugging Face), imported and validated by GenAssess."
+  },
+  {
+    "id": "aptqa-cloze-test-015",
+    "question": "Choose the word for __75__:",
+    "options": [
+      "Budget",
+      "Destination",
+      "Luggage",
+      "Schedule"
+    ],
+    "correct_answer": 1,
+    "explanation": "Researching a place suggests destination.",
+    "topic": "Cloze Test",
+    "subtopic": "Cloze Test",
+    "category": "Verbal Ability",
+    "difficulty": "Medium",
+    "estimated_time_seconds": 75,
+    "source_type": "Aptitude-QA (Prathamesh25/aptitude-qa-dataset)",
+    "tags": [
+      "aptitude-qa",
+      "cloze test",
+      "02-intermediate"
+    ],
+    "target_roles": [],
+    "source": "Aptitude-QA dataset",
+    "license": "Apache-2.0",
+    "attribution": "Prathamesh25/aptitude-qa-dataset (Hugging Face), imported and validated by GenAssess."
+  },
+  {
+    "id": "aptqa-cloze-test-016",
+    "question": "Choose the word for __76__:",
+    "options": [
+      "Irrelevant",
+      "Crucial",
+      "Optional",
+      "Unnecessary"
+    ],
+    "correct_answer": 1,
+    "explanation": "Teamwork is key to success. Crucial fits best.",
+    "topic": "Cloze Test",
+    "subtopic": "Cloze Test",
+    "category": "Verbal Ability",
+    "difficulty": "Medium",
+    "estimated_time_seconds": 75,
+    "source_type": "Aptitude-QA (Prathamesh25/aptitude-qa-dataset)",
+    "tags": [
+      "aptitude-qa",
+      "cloze test",
+      "02-intermediate"
+    ],
+    "target_roles": [],
+    "source": "Aptitude-QA dataset",
+    "license": "Apache-2.0",
+    "attribution": "Prathamesh25/aptitude-qa-dataset (Hugging Face), imported and validated by GenAssess."
+  },
+  {
+    "id": "aptqa-cloze-test-017",
+    "question": "Choose the word for __77__:",
+    "options": [
+      "Competition",
+      "Collaboration",
+      "Rivalry",
+      "Isolation"
+    ],
+    "correct_answer": 1,
+    "explanation": "Teamwork involves working together. Collaboration is appropriate.",
+    "topic": "Cloze Test",
+    "subtopic": "Cloze Test",
+    "category": "Verbal Ability",
+    "difficulty": "Medium",
+    "estimated_time_seconds": 75,
+    "source_type": "Aptitude-QA (Prathamesh25/aptitude-qa-dataset)",
+    "tags": [
+      "aptitude-qa",
+      "cloze test",
+      "02-intermediate"
+    ],
+    "target_roles": [],
+    "source": "Aptitude-QA dataset",
+    "license": "Apache-2.0",
+    "attribution": "Prathamesh25/aptitude-qa-dataset (Hugging Face), imported and validated by GenAssess."
+  },
+  {
+    "id": "aptqa-cloze-test-018",
+    "question": "Choose the word for __78__:",
+    "options": [
+      "Suppress",
+      "Share",
+      "Hide",
+      "Ignore"
+    ],
+    "correct_answer": 1,
+    "explanation": "Effective teams exchange ideas. Share fits best.",
+    "topic": "Cloze Test",
+    "subtopic": "Cloze Test",
+    "category": "Verbal Ability",
+    "difficulty": "Medium",
+    "estimated_time_seconds": 75,
+    "source_type": "Aptitude-QA (Prathamesh25/aptitude-qa-dataset)",
+    "tags": [
+      "aptitude-qa",
+      "cloze test",
+      "02-intermediate"
+    ],
+    "target_roles": [],
+    "source": "Aptitude-QA dataset",
+    "license": "Apache-2.0",
+    "attribution": "Prathamesh25/aptitude-qa-dataset (Hugging Face), imported and validated by GenAssess."
+  },
+  {
+    "id": "aptqa-cloze-test-019",
+    "question": "Choose the word for __79__:",
+    "options": [
+      "Ignored",
+      "Resolved",
+      "Avoided",
+      "Escalated"
+    ],
+    "correct_answer": 1,
+    "explanation": "Communication handles conflicts. Resolved is appropriate.",
+    "topic": "Cloze Test",
+    "subtopic": "Cloze Test",
+    "category": "Verbal Ability",
+    "difficulty": "Medium",
+    "estimated_time_seconds": 75,
+    "source_type": "Aptitude-QA (Prathamesh25/aptitude-qa-dataset)",
+    "tags": [
+      "aptitude-qa",
+      "cloze test",
+      "02-intermediate"
+    ],
+    "target_roles": [],
+    "source": "Aptitude-QA dataset",
+    "license": "Apache-2.0",
+    "attribution": "Prathamesh25/aptitude-qa-dataset (Hugging Face), imported and validated by GenAssess."
+  },
+  {
+    "id": "aptqa-cloze-test-020",
+    "question": "Choose the word for __80__:",
+    "options": [
+      "Fails",
+      "Delivers",
+      "Misses",
+      "Avoids"
+    ],
+    "correct_answer": 1,
+    "explanation": "Strong teams succeed. Delivers fits best.",
+    "topic": "Cloze Test",
+    "subtopic": "Cloze Test",
+    "category": "Verbal Ability",
+    "difficulty": "Medium",
+    "estimated_time_seconds": 75,
+    "source_type": "Aptitude-QA (Prathamesh25/aptitude-qa-dataset)",
+    "tags": [
+      "aptitude-qa",
+      "cloze test",
+      "02-intermediate"
+    ],
+    "target_roles": [],
+    "source": "Aptitude-QA dataset",
+    "license": "Apache-2.0",
+    "attribution": "Prathamesh25/aptitude-qa-dataset (Hugging Face), imported and validated by GenAssess."
+  },
+  {
+    "id": "aptqa-idioms-phrases-011",
+    "question": "Meaning of “Burn the midnight oil”:",
+    "options": [
+      "Waste time",
+      "Work late",
+      "Start early",
+      "Avoid work"
+    ],
+    "correct_answer": 1,
+    "explanation": "Burn the midnight oil means working late into the night.",
+    "topic": "Idioms/Phrases",
+    "subtopic": "Idioms/Phrases",
+    "category": "Verbal Ability",
+    "difficulty": "Medium",
+    "estimated_time_seconds": 75,
+    "source_type": "Aptitude-QA (Prathamesh25/aptitude-qa-dataset)",
+    "tags": [
+      "aptitude-qa",
+      "idioms/phrases",
+      "02-intermediate"
+    ],
+    "target_roles": [],
+    "source": "Aptitude-QA dataset",
+    "license": "Apache-2.0",
+    "attribution": "Prathamesh25/aptitude-qa-dataset (Hugging Face), imported and validated by GenAssess."
+  },
+  {
+    "id": "aptqa-idioms-phrases-012",
+    "question": "Meaning of “Beat around the bush”:",
+    "options": [
+      "Speak directly",
+      "Avoid the main topic",
+      "Solve quickly",
+      "Act boldly"
+    ],
+    "correct_answer": 1,
+    "explanation": "Beat around the bush means avoiding the main issue.",
+    "topic": "Idioms/Phrases",
+    "subtopic": "Idioms/Phrases",
+    "category": "Verbal Ability",
+    "difficulty": "Medium",
+    "estimated_time_seconds": 75,
+    "source_type": "Aptitude-QA (Prathamesh25/aptitude-qa-dataset)",
+    "tags": [
+      "aptitude-qa",
+      "idioms/phrases",
+      "02-intermediate"
+    ],
+    "target_roles": [],
+    "source": "Aptitude-QA dataset",
+    "license": "Apache-2.0",
+    "attribution": "Prathamesh25/aptitude-qa-dataset (Hugging Face), imported and validated by GenAssess."
+  },
+  {
+    "id": "aptqa-idioms-phrases-013",
+    "question": "Meaning of “The apple doesn’t fall far from the tree”:",
+    "options": [
+      "Children are independent",
+      "Children resemble parents",
+      "Family is distant",
+      "Parents are strict"
+    ],
+    "correct_answer": 1,
+    "explanation": "Means children are similar to parents.",
+    "topic": "Idioms/Phrases",
+    "subtopic": "Idioms/Phrases",
+    "category": "Verbal Ability",
+    "difficulty": "Medium",
+    "estimated_time_seconds": 75,
+    "source_type": "Aptitude-QA (Prathamesh25/aptitude-qa-dataset)",
+    "tags": [
+      "aptitude-qa",
+      "idioms/phrases",
+      "02-intermediate"
+    ],
+    "target_roles": [],
+    "source": "Aptitude-QA dataset",
+    "license": "Apache-2.0",
+    "attribution": "Prathamesh25/aptitude-qa-dataset (Hugging Face), imported and validated by GenAssess."
+  },
+  {
+    "id": "aptqa-idioms-phrases-014",
+    "question": "Meaning of “Put your best foot forward”:",
+    "options": [
+      "Make a mistake",
+      "Make a strong effort",
+      "Run away",
+      "Ignore tasks"
+    ],
+    "correct_answer": 1,
+    "explanation": "Means to make your best effort.",
+    "topic": "Idioms/Phrases",
+    "subtopic": "Idioms/Phrases",
+    "category": "Verbal Ability",
+    "difficulty": "Medium",
+    "estimated_time_seconds": 75,
+    "source_type": "Aptitude-QA (Prathamesh25/aptitude-qa-dataset)",
+    "tags": [
+      "aptitude-qa",
+      "idioms/phrases",
+      "02-intermediate"
+    ],
+    "target_roles": [],
+    "source": "Aptitude-QA dataset",
+    "license": "Apache-2.0",
+    "attribution": "Prathamesh25/aptitude-qa-dataset (Hugging Face), imported and validated by GenAssess."
+  },
+  {
+    "id": "aptqa-idioms-phrases-015",
+    "question": "Meaning of “Bite off more than you can chew”:",
+    "options": [
+      "Take small tasks",
+      "Take on too much",
+      "Eat quickly",
+      "Share work"
+    ],
+    "correct_answer": 1,
+    "explanation": "Means taking on more than you can handle.",
+    "topic": "Idioms/Phrases",
+    "subtopic": "Idioms/Phrases",
+    "category": "Verbal Ability",
+    "difficulty": "Medium",
+    "estimated_time_seconds": 75,
+    "source_type": "Aptitude-QA (Prathamesh25/aptitude-qa-dataset)",
+    "tags": [
+      "aptitude-qa",
+      "idioms/phrases",
+      "02-intermediate"
+    ],
+    "target_roles": [],
+    "source": "Aptitude-QA dataset",
+    "license": "Apache-2.0",
+    "attribution": "Prathamesh25/aptitude-qa-dataset (Hugging Face), imported and validated by GenAssess."
+  },
+  {
+    "id": "aptqa-idioms-phrases-016",
+    "question": "Meaning of “Cry over spilt milk”:",
+    "options": [
+      "Plan ahead",
+      "Regret the past",
+      "Celebrate success",
+      "Ignore mistakes"
+    ],
+    "correct_answer": 1,
+    "explanation": "Means regretting something unchangeable.",
+    "topic": "Idioms/Phrases",
+    "subtopic": "Idioms/Phrases",
+    "category": "Verbal Ability",
+    "difficulty": "Medium",
+    "estimated_time_seconds": 75,
+    "source_type": "Aptitude-QA (Prathamesh25/aptitude-qa-dataset)",
+    "tags": [
+      "aptitude-qa",
+      "idioms/phrases",
+      "02-intermediate"
+    ],
+    "target_roles": [],
+    "source": "Aptitude-QA dataset",
+    "license": "Apache-2.0",
+    "attribution": "Prathamesh25/aptitude-qa-dataset (Hugging Face), imported and validated by GenAssess."
+  },
+  {
+    "id": "aptqa-idioms-phrases-017",
+    "question": "Meaning of “Every cloud has a silver lining”:",
+    "options": [
+      "Problems are unsolvable",
+      "Every problem has a positive aspect",
+      "Storms are dangerous",
+      "Optimism is foolish"
+    ],
+    "correct_answer": 1,
+    "explanation": "Means every difficulty has a hopeful aspect.",
+    "topic": "Idioms/Phrases",
+    "subtopic": "Idioms/Phrases",
+    "category": "Verbal Ability",
+    "difficulty": "Medium",
+    "estimated_time_seconds": 75,
+    "source_type": "Aptitude-QA (Prathamesh25/aptitude-qa-dataset)",
+    "tags": [
+      "aptitude-qa",
+      "idioms/phrases",
+      "02-intermediate"
+    ],
+    "target_roles": [],
+    "source": "Aptitude-QA dataset",
+    "license": "Apache-2.0",
+    "attribution": "Prathamesh25/aptitude-qa-dataset (Hugging Face), imported and validated by GenAssess."
+  },
+  {
+    "id": "aptqa-idioms-phrases-018",
+    "question": "Meaning of “Throw in the towel”:",
+    "options": [
+      "Keep fighting",
+      "Give up",
+      "Start over",
+      "Work harder"
+    ],
+    "correct_answer": 1,
+    "explanation": "Means to surrender or quit.",
+    "topic": "Idioms/Phrases",
+    "subtopic": "Idioms/Phrases",
+    "category": "Verbal Ability",
+    "difficulty": "Medium",
+    "estimated_time_seconds": 75,
+    "source_type": "Aptitude-QA (Prathamesh25/aptitude-qa-dataset)",
+    "tags": [
+      "aptitude-qa",
+      "idioms/phrases",
+      "02-intermediate"
+    ],
+    "target_roles": [],
+    "source": "Aptitude-QA dataset",
+    "license": "Apache-2.0",
+    "attribution": "Prathamesh25/aptitude-qa-dataset (Hugging Face), imported and validated by GenAssess."
+  },
+  {
+    "id": "aptqa-idioms-phrases-019",
+    "question": "Meaning of “Cut corners”:",
+    "options": [
+      "Work thoroughly",
+      "Take shortcuts",
+      "Plan carefully",
+      "Be honest"
+    ],
+    "correct_answer": 1,
+    "explanation": "Means to do something in a cheaper or easier way.",
+    "topic": "Idioms/Phrases",
+    "subtopic": "Idioms/Phrases",
+    "category": "Verbal Ability",
+    "difficulty": "Medium",
+    "estimated_time_seconds": 75,
+    "source_type": "Aptitude-QA (Prathamesh25/aptitude-qa-dataset)",
+    "tags": [
+      "aptitude-qa",
+      "idioms/phrases",
+      "02-intermediate"
+    ],
+    "target_roles": [],
+    "source": "Aptitude-QA dataset",
+    "license": "Apache-2.0",
+    "attribution": "Prathamesh25/aptitude-qa-dataset (Hugging Face), imported and validated by GenAssess."
+  },
+  {
+    "id": "aptqa-idioms-phrases-020",
+    "question": "Meaning of “On the ball”:",
+    "options": [
+      "Confused",
+      "Alert and efficient",
+      "Lazy",
+      "Distracted"
+    ],
+    "correct_answer": 1,
+    "explanation": "Means being quick and competent.",
+    "topic": "Idioms/Phrases",
+    "subtopic": "Idioms/Phrases",
+    "category": "Verbal Ability",
+    "difficulty": "Medium",
+    "estimated_time_seconds": 75,
+    "source_type": "Aptitude-QA (Prathamesh25/aptitude-qa-dataset)",
+    "tags": [
+      "aptitude-qa",
+      "idioms/phrases",
+      "02-intermediate"
+    ],
+    "target_roles": [],
+    "source": "Aptitude-QA dataset",
+    "license": "Apache-2.0",
+    "attribution": "Prathamesh25/aptitude-qa-dataset (Hugging Face), imported and validated by GenAssess."
+  },
+  {
+    "id": "aptqa-synonyms-021",
+    "question": "Choose the synonym for \"Acerbic\":",
+    "options": [
+      "Sweet",
+      "Caustic",
+      "Mild",
+      "Gentle"
+    ],
+    "correct_answer": 1,
+    "explanation": "Acerbic means sharp or biting in tone. Caustic, meaning harshly critical, is the closest synonym.",
+    "topic": "Synonyms",
+    "subtopic": "Synonyms",
+    "category": "Verbal Ability",
+    "difficulty": "Hard",
+    "estimated_time_seconds": 75,
+    "source_type": "Aptitude-QA (Prathamesh25/aptitude-qa-dataset)",
+    "tags": [
+      "aptitude-qa",
+      "synonyms",
+      "03-advance"
+    ],
+    "target_roles": [],
+    "source": "Aptitude-QA dataset",
+    "license": "Apache-2.0",
+    "attribution": "Prathamesh25/aptitude-qa-dataset (Hugging Face), imported and validated by GenAssess."
+  },
+  {
+    "id": "aptqa-synonyms-022",
+    "question": "Find the synonym for \"Esoteric\":",
+    "options": [
+      "Common",
+      "Arcane",
+      "Accessible",
+      "Obvious"
+    ],
+    "correct_answer": 1,
+    "explanation": "Esoteric means understood by few. Arcane, meaning mysterious or secret, is the closest synonym.",
+    "topic": "Synonyms",
+    "subtopic": "Synonyms",
+    "category": "Verbal Ability",
+    "difficulty": "Hard",
+    "estimated_time_seconds": 75,
+    "source_type": "Aptitude-QA (Prathamesh25/aptitude-qa-dataset)",
+    "tags": [
+      "aptitude-qa",
+      "synonyms",
+      "03-advance"
+    ],
+    "target_roles": [],
+    "source": "Aptitude-QA dataset",
+    "license": "Apache-2.0",
+    "attribution": "Prathamesh25/aptitude-qa-dataset (Hugging Face), imported and validated by GenAssess."
+  },
+  {
+    "id": "aptqa-synonyms-023",
+    "question": "Synonym for \"Nefarious\":",
+    "options": [
+      "Virtuous",
+      "Wicked",
+      "Honorable",
+      "Ethical"
+    ],
+    "correct_answer": 1,
+    "explanation": "Nefarious means despicable or evil. Wicked is the closest synonym.",
+    "topic": "Synonyms",
+    "subtopic": "Synonyms",
+    "category": "Verbal Ability",
+    "difficulty": "Hard",
+    "estimated_time_seconds": 75,
+    "source_type": "Aptitude-QA (Prathamesh25/aptitude-qa-dataset)",
+    "tags": [
+      "aptitude-qa",
+      "synonyms",
+      "03-advance"
+    ],
+    "target_roles": [],
+    "source": "Aptitude-QA dataset",
+    "license": "Apache-2.0",
+    "attribution": "Prathamesh25/aptitude-qa-dataset (Hugging Face), imported and validated by GenAssess."
+  },
+  {
+    "id": "aptqa-synonyms-024",
+    "question": "Choose the synonym for \"Obfuscate\":",
+    "options": [
+      "Clarify",
+      "Confuse",
+      "Simplify",
+      "Illuminate"
+    ],
+    "correct_answer": 1,
+    "explanation": "Obfuscate means to make unclear. Confuse is the closest synonym.",
+    "topic": "Synonyms",
+    "subtopic": "Synonyms",
+    "category": "Verbal Ability",
+    "difficulty": "Hard",
+    "estimated_time_seconds": 75,
+    "source_type": "Aptitude-QA (Prathamesh25/aptitude-qa-dataset)",
+    "tags": [
+      "aptitude-qa",
+      "synonyms",
+      "03-advance"
+    ],
+    "target_roles": [],
+    "source": "Aptitude-QA dataset",
+    "license": "Apache-2.0",
+    "attribution": "Prathamesh25/aptitude-qa-dataset (Hugging Face), imported and validated by GenAssess."
+  },
+  {
+    "id": "aptqa-synonyms-025",
+    "question": "Synonym for \"Propinquity\":",
+    "options": [
+      "Distance",
+      "Proximity",
+      "Isolation",
+      "Separation"
+    ],
+    "correct_answer": 1,
+    "explanation": "Propinquity means nearness or kinship. Proximity is the closest synonym.",
+    "topic": "Synonyms",
+    "subtopic": "Synonyms",
+    "category": "Verbal Ability",
+    "difficulty": "Hard",
+    "estimated_time_seconds": 75,
+    "source_type": "Aptitude-QA (Prathamesh25/aptitude-qa-dataset)",
+    "tags": [
+      "aptitude-qa",
+      "synonyms",
+      "03-advance"
+    ],
+    "target_roles": [],
+    "source": "Aptitude-QA dataset",
+    "license": "Apache-2.0",
+    "attribution": "Prathamesh25/aptitude-qa-dataset (Hugging Face), imported and validated by GenAssess."
+  },
+  {
+    "id": "aptqa-synonyms-026",
+    "question": "Find the synonym for \"Recalcitrant\":",
+    "options": [
+      "Compliant",
+      "Defiant",
+      "Obedient",
+      "Submissive"
+    ],
+    "correct_answer": 1,
+    "explanation": "Recalcitrant means stubbornly resistant. Defiant is the closest synonym.",
+    "topic": "Synonyms",
+    "subtopic": "Synonyms",
+    "category": "Verbal Ability",
+    "difficulty": "Hard",
+    "estimated_time_seconds": 75,
+    "source_type": "Aptitude-QA (Prathamesh25/aptitude-qa-dataset)",
+    "tags": [
+      "aptitude-qa",
+      "synonyms",
+      "03-advance"
+    ],
+    "target_roles": [],
+    "source": "Aptitude-QA dataset",
+    "license": "Apache-2.0",
+    "attribution": "Prathamesh25/aptitude-qa-dataset (Hugging Face), imported and validated by GenAssess."
+  },
+  {
+    "id": "aptqa-synonyms-027",
+    "question": "Synonym for \"Supercilious\":",
+    "options": [
+      "Humble",
+      "Arrogant",
+      "Modest",
+      "Courteous"
+    ],
+    "correct_answer": 1,
+    "explanation": "Supercilious means haughty or disdainful. Arrogant is the closest synonym.",
+    "topic": "Synonyms",
+    "subtopic": "Synonyms",
+    "category": "Verbal Ability",
+    "difficulty": "Hard",
+    "estimated_time_seconds": 75,
+    "source_type": "Aptitude-QA (Prathamesh25/aptitude-qa-dataset)",
+    "tags": [
+      "aptitude-qa",
+      "synonyms",
+      "03-advance"
+    ],
+    "target_roles": [],
+    "source": "Aptitude-QA dataset",
+    "license": "Apache-2.0",
+    "attribution": "Prathamesh25/aptitude-qa-dataset (Hugging Face), imported and validated by GenAssess."
+  },
+  {
+    "id": "aptqa-synonyms-028",
+    "question": "Choose the synonym for \"Temerity\":",
+    "options": [
+      "Caution",
+      "Audacity",
+      "Prudence",
+      "Restraint"
+    ],
+    "correct_answer": 1,
+    "explanation": "Temerity means reckless boldness. Audacity is the closest synonym.",
+    "topic": "Synonyms",
+    "subtopic": "Synonyms",
+    "category": "Verbal Ability",
+    "difficulty": "Hard",
+    "estimated_time_seconds": 75,
+    "source_type": "Aptitude-QA (Prathamesh25/aptitude-qa-dataset)",
+    "tags": [
+      "aptitude-qa",
+      "synonyms",
+      "03-advance"
+    ],
+    "target_roles": [],
+    "source": "Aptitude-QA dataset",
+    "license": "Apache-2.0",
+    "attribution": "Prathamesh25/aptitude-qa-dataset (Hugging Face), imported and validated by GenAssess."
+  },
+  {
+    "id": "aptqa-synonyms-029",
+    "question": "Synonym for \"Ubiquitous\":",
+    "options": [
+      "Rare",
+      "Omnipresent",
+      "Scarce",
+      "Limited"
+    ],
+    "correct_answer": 1,
+    "explanation": "Ubiquitous means present everywhere. Omnipresent is the closest synonym.",
+    "topic": "Synonyms",
+    "subtopic": "Synonyms",
+    "category": "Verbal Ability",
+    "difficulty": "Hard",
+    "estimated_time_seconds": 75,
+    "source_type": "Aptitude-QA (Prathamesh25/aptitude-qa-dataset)",
+    "tags": [
+      "aptitude-qa",
+      "synonyms",
+      "03-advance"
+    ],
+    "target_roles": [],
+    "source": "Aptitude-QA dataset",
+    "license": "Apache-2.0",
+    "attribution": "Prathamesh25/aptitude-qa-dataset (Hugging Face), imported and validated by GenAssess."
+  },
+  {
+    "id": "aptqa-synonyms-030",
+    "question": "Find the synonym for \"Vituperative\":",
+    "options": [
+      "Complimentary",
+      "Abusive",
+      "Flattering",
+      "Kind"
+    ],
+    "correct_answer": 1,
+    "explanation": "Vituperative means bitterly critical. Abusive is the closest synonym.",
+    "topic": "Synonyms",
+    "subtopic": "Synonyms",
+    "category": "Verbal Ability",
+    "difficulty": "Hard",
+    "estimated_time_seconds": 75,
+    "source_type": "Aptitude-QA (Prathamesh25/aptitude-qa-dataset)",
+    "tags": [
+      "aptitude-qa",
+      "synonyms",
+      "03-advance"
+    ],
+    "target_roles": [],
+    "source": "Aptitude-QA dataset",
+    "license": "Apache-2.0",
+    "attribution": "Prathamesh25/aptitude-qa-dataset (Hugging Face), imported and validated by GenAssess."
+  },
+  {
+    "id": "aptqa-antonyms-021",
+    "question": "Choose the antonym for \"Aplomb\":",
+    "options": [
+      "Confidence",
+      "Fluster",
+      "Poise",
+      "Assurance"
+    ],
+    "correct_answer": 1,
+    "explanation": "Aplomb means self-confidence. Fluster, meaning nervous agitation, is the opposite.",
+    "topic": "Antonyms",
+    "subtopic": "Antonyms",
+    "category": "Verbal Ability",
+    "difficulty": "Hard",
+    "estimated_time_seconds": 75,
+    "source_type": "Aptitude-QA (Prathamesh25/aptitude-qa-dataset)",
+    "tags": [
+      "aptitude-qa",
+      "antonyms",
+      "03-advance"
+    ],
+    "target_roles": [],
+    "source": "Aptitude-QA dataset",
+    "license": "Apache-2.0",
+    "attribution": "Prathamesh25/aptitude-qa-dataset (Hugging Face), imported and validated by GenAssess."
+  },
+  {
+    "id": "aptqa-antonyms-022",
+    "question": "Find the antonym for \"Cacophony\":",
+    "options": [
+      "Discord",
+      "Harmony",
+      "Noise",
+      "Clamor"
+    ],
+    "correct_answer": 1,
+    "explanation": "Cacophony means harsh sound. Harmony, meaning pleasant sound, is the opposite.",
+    "topic": "Antonyms",
+    "subtopic": "Antonyms",
+    "category": "Verbal Ability",
+    "difficulty": "Hard",
+    "estimated_time_seconds": 75,
+    "source_type": "Aptitude-QA (Prathamesh25/aptitude-qa-dataset)",
+    "tags": [
+      "aptitude-qa",
+      "antonyms",
+      "03-advance"
+    ],
+    "target_roles": [],
+    "source": "Aptitude-QA dataset",
+    "license": "Apache-2.0",
+    "attribution": "Prathamesh25/aptitude-qa-dataset (Hugging Face), imported and validated by GenAssess."
+  },
+  {
+    "id": "aptqa-antonyms-023",
+    "question": "Antonym for \"Epiphany\":",
+    "options": [
+      "Revelation",
+      "Ignorance",
+      "Insight",
+      "Realization"
+    ],
+    "correct_answer": 1,
+    "explanation": "Epiphany means sudden understanding. Ignorance, meaning lack of knowledge, is the opposite.",
+    "topic": "Antonyms",
+    "subtopic": "Antonyms",
+    "category": "Verbal Ability",
+    "difficulty": "Hard",
+    "estimated_time_seconds": 75,
+    "source_type": "Aptitude-QA (Prathamesh25/aptitude-qa-dataset)",
+    "tags": [
+      "aptitude-qa",
+      "antonyms",
+      "03-advance"
+    ],
+    "target_roles": [],
+    "source": "Aptitude-QA dataset",
+    "license": "Apache-2.0",
+    "attribution": "Prathamesh25/aptitude-qa-dataset (Hugging Face), imported and validated by GenAssess."
+  },
+  {
+    "id": "aptqa-antonyms-024",
+    "question": "Choose the antonym for \"Magnanimous\":",
+    "options": [
+      "Generous",
+      "Petty",
+      "Noble",
+      "Charitable"
+    ],
+    "correct_answer": 1,
+    "explanation": "Magnanimous means generous in spirit. Petty, meaning small-minded, is the opposite.",
+    "topic": "Antonyms",
+    "subtopic": "Antonyms",
+    "category": "Verbal Ability",
+    "difficulty": "Hard",
+    "estimated_time_seconds": 75,
+    "source_type": "Aptitude-QA (Prathamesh25/aptitude-qa-dataset)",
+    "tags": [
+      "aptitude-qa",
+      "antonyms",
+      "03-advance"
+    ],
+    "target_roles": [],
+    "source": "Aptitude-QA dataset",
+    "license": "Apache-2.0",
+    "attribution": "Prathamesh25/aptitude-qa-dataset (Hugging Face), imported and validated by GenAssess."
+  },
+  {
+    "id": "aptqa-antonyms-025",
+    "question": "Antonym for \"Pernicious\":",
+    "options": [
+      "Harmful",
+      "Beneficial",
+      "Destructive",
+      "Toxic"
+    ],
+    "correct_answer": 1,
+    "explanation": "Pernicious means harmful. Beneficial, meaning helpful, is the opposite.",
+    "topic": "Antonyms",
+    "subtopic": "Antonyms",
+    "category": "Verbal Ability",
+    "difficulty": "Hard",
+    "estimated_time_seconds": 75,
+    "source_type": "Aptitude-QA (Prathamesh25/aptitude-qa-dataset)",
+    "tags": [
+      "aptitude-qa",
+      "antonyms",
+      "03-advance"
+    ],
+    "target_roles": [],
+    "source": "Aptitude-QA dataset",
+    "license": "Apache-2.0",
+    "attribution": "Prathamesh25/aptitude-qa-dataset (Hugging Face), imported and validated by GenAssess."
+  },
+  {
+    "id": "aptqa-antonyms-026",
+    "question": "Find the antonym for \"Quell\":",
+    "options": [
+      "Suppress",
+      "Incite",
+      "Pacify",
+      "Subdue"
+    ],
+    "correct_answer": 1,
+    "explanation": "Quell means to calm or suppress. Incite, meaning to stir up, is the opposite.",
+    "topic": "Antonyms",
+    "subtopic": "Antonyms",
+    "category": "Verbal Ability",
+    "difficulty": "Hard",
+    "estimated_time_seconds": 75,
+    "source_type": "Aptitude-QA (Prathamesh25/aptitude-qa-dataset)",
+    "tags": [
+      "aptitude-qa",
+      "antonyms",
+      "03-advance"
+    ],
+    "target_roles": [],
+    "source": "Aptitude-QA dataset",
+    "license": "Apache-2.0",
+    "attribution": "Prathamesh25/aptitude-qa-dataset (Hugging Face), imported and validated by GenAssess."
+  },
+  {
+    "id": "aptqa-antonyms-027",
+    "question": "Antonym for \"Reticent\":",
+    "options": [
+      "Reserved",
+      "Talkative",
+      "Silent",
+      "Restrained"
+    ],
+    "correct_answer": 1,
+    "explanation": "Reticent means reluctant to speak. Talkative is the opposite.",
+    "topic": "Antonyms",
+    "subtopic": "Antonyms",
+    "category": "Verbal Ability",
+    "difficulty": "Hard",
+    "estimated_time_seconds": 75,
+    "source_type": "Aptitude-QA (Prathamesh25/aptitude-qa-dataset)",
+    "tags": [
+      "aptitude-qa",
+      "antonyms",
+      "03-advance"
+    ],
+    "target_roles": [],
+    "source": "Aptitude-QA dataset",
+    "license": "Apache-2.0",
+    "attribution": "Prathamesh25/aptitude-qa-dataset (Hugging Face), imported and validated by GenAssess."
+  },
+  {
+    "id": "aptqa-antonyms-028",
+    "question": "Choose the antonym for \"Soporific\":",
+    "options": [
+      "Sleep-inducing",
+      "Stimulating",
+      "Sedative",
+      "Lulling"
+    ],
+    "correct_answer": 1,
+    "explanation": "Soporific means causing sleep. Stimulating, meaning energizing, is the opposite.",
+    "topic": "Antonyms",
+    "subtopic": "Antonyms",
+    "category": "Verbal Ability",
+    "difficulty": "Hard",
+    "estimated_time_seconds": 75,
+    "source_type": "Aptitude-QA (Prathamesh25/aptitude-qa-dataset)",
+    "tags": [
+      "aptitude-qa",
+      "antonyms",
+      "03-advance"
+    ],
+    "target_roles": [],
+    "source": "Aptitude-QA dataset",
+    "license": "Apache-2.0",
+    "attribution": "Prathamesh25/aptitude-qa-dataset (Hugging Face), imported and validated by GenAssess."
+  },
+  {
+    "id": "aptqa-antonyms-029",
+    "question": "Antonym for \"Turgid\":",
+    "options": [
+      "Swollen",
+      "Concise",
+      "Inflated",
+      "Bloated"
+    ],
+    "correct_answer": 1,
+    "explanation": "Turgid means overly complex or swollen. Concise, meaning brief, is the opposite.",
+    "topic": "Antonyms",
+    "subtopic": "Antonyms",
+    "category": "Verbal Ability",
+    "difficulty": "Hard",
+    "estimated_time_seconds": 75,
+    "source_type": "Aptitude-QA (Prathamesh25/aptitude-qa-dataset)",
+    "tags": [
+      "aptitude-qa",
+      "antonyms",
+      "03-advance"
+    ],
+    "target_roles": [],
+    "source": "Aptitude-QA dataset",
+    "license": "Apache-2.0",
+    "attribution": "Prathamesh25/aptitude-qa-dataset (Hugging Face), imported and validated by GenAssess."
+  },
+  {
+    "id": "aptqa-antonyms-030",
+    "question": "Find the antonym for \"Voracious\":",
+    "options": [
+      "Greedy",
+      "Restrained",
+      "Ravenous",
+      "Insatiable"
+    ],
+    "correct_answer": 1,
+    "explanation": "Voracious means excessively eager. Restrained, meaning controlled, is the opposite.",
+    "topic": "Antonyms",
+    "subtopic": "Antonyms",
+    "category": "Verbal Ability",
+    "difficulty": "Hard",
+    "estimated_time_seconds": 75,
+    "source_type": "Aptitude-QA (Prathamesh25/aptitude-qa-dataset)",
+    "tags": [
+      "aptitude-qa",
+      "antonyms",
+      "03-advance"
+    ],
+    "target_roles": [],
+    "source": "Aptitude-QA dataset",
+    "license": "Apache-2.0",
+    "attribution": "Prathamesh25/aptitude-qa-dataset (Hugging Face), imported and validated by GenAssess."
+  },
+  {
+    "id": "aptqa-sentence-completion-021",
+    "question": "Her ______ critique, though harsh, was instrumental in refining the proposal.",
+    "options": [
+      "Flattering",
+      "Incisive",
+      "Vague",
+      "Ambiguous"
+    ],
+    "correct_answer": 1,
+    "explanation": "Harsh but refining suggests sharp analysis. Incisive (penetrating) fits best.",
+    "topic": "Sentence Completion",
+    "subtopic": "Sentence Completion",
+    "category": "Verbal Ability",
+    "difficulty": "Hard",
+    "estimated_time_seconds": 75,
+    "source_type": "Aptitude-QA (Prathamesh25/aptitude-qa-dataset)",
+    "tags": [
+      "aptitude-qa",
+      "sentence completion",
+      "03-advance"
+    ],
+    "target_roles": [],
+    "source": "Aptitude-QA dataset",
+    "license": "Apache-2.0",
+    "attribution": "Prathamesh25/aptitude-qa-dataset (Hugging Face), imported and validated by GenAssess."
+  },
+  {
+    "id": "aptqa-sentence-completion-022",
+    "question": "The politician’s ______ rhetoric failed to address the economic concerns.",
+    "options": [
+      "Cogent",
+      "Grandiloquent",
+      "Lucid",
+      "Persuasive"
+    ],
+    "correct_answer": 1,
+    "explanation": "Failing to address concerns suggests exaggerated speech. Grandiloquent (pompous) fits best.",
+    "topic": "Sentence Completion",
+    "subtopic": "Sentence Completion",
+    "category": "Verbal Ability",
+    "difficulty": "Hard",
+    "estimated_time_seconds": 75,
+    "source_type": "Aptitude-QA (Prathamesh25/aptitude-qa-dataset)",
+    "tags": [
+      "aptitude-qa",
+      "sentence completion",
+      "03-advance"
+    ],
+    "target_roles": [],
+    "source": "Aptitude-QA dataset",
+    "license": "Apache-2.0",
+    "attribution": "Prathamesh25/aptitude-qa-dataset (Hugging Face), imported and validated by GenAssess."
+  },
+  {
+    "id": "aptqa-sentence-completion-023",
+    "question": "His ______ demeanor belied the complexity of his strategic thinking.",
+    "options": [
+      "Arrogant",
+      "Unassuming",
+      "Ostentatious",
+      "Haughty"
+    ],
+    "correct_answer": 1,
+    "explanation": "Contrast with complex thinking suggests simplicity. Unassuming fits best.",
+    "topic": "Sentence Completion",
+    "subtopic": "Sentence Completion",
+    "category": "Verbal Ability",
+    "difficulty": "Hard",
+    "estimated_time_seconds": 75,
+    "source_type": "Aptitude-QA (Prathamesh25/aptitude-qa-dataset)",
+    "tags": [
+      "aptitude-qa",
+      "sentence completion",
+      "03-advance"
+    ],
+    "target_roles": [],
+    "source": "Aptitude-QA dataset",
+    "license": "Apache-2.0",
+    "attribution": "Prathamesh25/aptitude-qa-dataset (Hugging Face), imported and validated by GenAssess."
+  },
+  {
+    "id": "aptqa-sentence-completion-024",
+    "question": "The novel’s ______ prose captivated readers with its depth and nuance.",
+    "options": [
+      "Pedestrian",
+      "Eloquent",
+      "Trite",
+      "Banal"
+    ],
+    "correct_answer": 1,
+    "explanation": "Captivating suggests expressive language. Eloquent fits best.",
+    "topic": "Sentence Completion",
+    "subtopic": "Sentence Completion",
+    "category": "Verbal Ability",
+    "difficulty": "Hard",
+    "estimated_time_seconds": 75,
+    "source_type": "Aptitude-QA (Prathamesh25/aptitude-qa-dataset)",
+    "tags": [
+      "aptitude-qa",
+      "sentence completion",
+      "03-advance"
+    ],
+    "target_roles": [],
+    "source": "Aptitude-QA dataset",
+    "license": "Apache-2.0",
+    "attribution": "Prathamesh25/aptitude-qa-dataset (Hugging Face), imported and validated by GenAssess."
+  },
+  {
+    "id": "aptqa-sentence-completion-025",
+    "question": "The scientist’s ______ hypothesis was met with skepticism by peers.",
+    "options": [
+      "Conventional",
+      "Audacious",
+      "Orthodox",
+      "Traditional"
+    ],
+    "correct_answer": 1,
+    "explanation": "Skepticism suggests boldness. Audacious (daring) fits best.",
+    "topic": "Sentence Completion",
+    "subtopic": "Sentence Completion",
+    "category": "Verbal Ability",
+    "difficulty": "Hard",
+    "estimated_time_seconds": 75,
+    "source_type": "Aptitude-QA (Prathamesh25/aptitude-qa-dataset)",
+    "tags": [
+      "aptitude-qa",
+      "sentence completion",
+      "03-advance"
+    ],
+    "target_roles": [],
+    "source": "Aptitude-QA dataset",
+    "license": "Apache-2.0",
+    "attribution": "Prathamesh25/aptitude-qa-dataset (Hugging Face), imported and validated by GenAssess."
+  },
+  {
+    "id": "aptqa-sentence-completion-026",
+    "question": "Her ______ refusal to compromise frustrated the negotiators.",
+    "options": [
+      "Flexible",
+      "Adamant",
+      "Amicable",
+      "Conciliatory"
+    ],
+    "correct_answer": 1,
+    "explanation": "Frustration suggests inflexibility. Adamant fits best.",
+    "topic": "Sentence Completion",
+    "subtopic": "Sentence Completion",
+    "category": "Verbal Ability",
+    "difficulty": "Hard",
+    "estimated_time_seconds": 75,
+    "source_type": "Aptitude-QA (Prathamesh25/aptitude-qa-dataset)",
+    "tags": [
+      "aptitude-qa",
+      "sentence completion",
+      "03-advance"
+    ],
+    "target_roles": [],
+    "source": "Aptitude-QA dataset",
+    "license": "Apache-2.0",
+    "attribution": "Prathamesh25/aptitude-qa-dataset (Hugging Face), imported and validated by GenAssess."
+  },
+  {
+    "id": "aptqa-sentence-completion-027",
+    "question": "The ______ atmosphere in the room made open discussion impossible.",
+    "options": [
+      "Cordial",
+      "Acrimonious",
+      "Harmonious",
+      "Amiable"
+    ],
+    "correct_answer": 1,
+    "explanation": "Impossible discussion suggests hostility. Acrimonious fits best.",
+    "topic": "Sentence Completion",
+    "subtopic": "Sentence Completion",
+    "category": "Verbal Ability",
+    "difficulty": "Hard",
+    "estimated_time_seconds": 75,
+    "source_type": "Aptitude-QA (Prathamesh25/aptitude-qa-dataset)",
+    "tags": [
+      "aptitude-qa",
+      "sentence completion",
+      "03-advance"
+    ],
+    "target_roles": [],
+    "source": "Aptitude-QA dataset",
+    "license": "Apache-2.0",
+    "attribution": "Prathamesh25/aptitude-qa-dataset (Hugging Face), imported and validated by GenAssess."
+  },
+  {
+    "id": "aptqa-sentence-completion-028",
+    "question": "His ______ wit often diffused tense situations.",
+    "options": [
+      "Caustic",
+      "Disarming",
+      "Sarcastic",
+      "Biting"
+    ],
+    "correct_answer": 1,
+    "explanation": "Diffusing tension suggests charm. Disarming fits best.",
+    "topic": "Sentence Completion",
+    "subtopic": "Sentence Completion",
+    "category": "Verbal Ability",
+    "difficulty": "Hard",
+    "estimated_time_seconds": 75,
+    "source_type": "Aptitude-QA (Prathamesh25/aptitude-qa-dataset)",
+    "tags": [
+      "aptitude-qa",
+      "sentence completion",
+      "03-advance"
+    ],
+    "target_roles": [],
+    "source": "Aptitude-QA dataset",
+    "license": "Apache-2.0",
+    "attribution": "Prathamesh25/aptitude-qa-dataset (Hugging Face), imported and validated by GenAssess."
+  },
+  {
+    "id": "aptqa-sentence-completion-029",
+    "question": "The policy’s ______ implications were overlooked during its hasty adoption.",
+    "options": [
+      "Benign",
+      "Deleterious",
+      "Neutral",
+      "Beneficial"
+    ],
+    "correct_answer": 1,
+    "explanation": "Overlooked suggests negative outcomes. Deleterious (harmful) fits best.",
+    "topic": "Sentence Completion",
+    "subtopic": "Sentence Completion",
+    "category": "Verbal Ability",
+    "difficulty": "Hard",
+    "estimated_time_seconds": 75,
+    "source_type": "Aptitude-QA (Prathamesh25/aptitude-qa-dataset)",
+    "tags": [
+      "aptitude-qa",
+      "sentence completion",
+      "03-advance"
+    ],
+    "target_roles": [],
+    "source": "Aptitude-QA dataset",
+    "license": "Apache-2.0",
+    "attribution": "Prathamesh25/aptitude-qa-dataset (Hugging Face), imported and validated by GenAssess."
+  },
+  {
+    "id": "aptqa-sentence-completion-030",
+    "question": "Her ______ approach to leadership fostered innovation among her team.",
+    "options": [
+      "Autocratic",
+      "Visionary",
+      "Bureaucratic",
+      "Restrictive"
+    ],
+    "correct_answer": 1,
+    "explanation": "Fostering innovation suggests foresight. Visionary fits best.",
+    "topic": "Sentence Completion",
+    "subtopic": "Sentence Completion",
+    "category": "Verbal Ability",
+    "difficulty": "Hard",
+    "estimated_time_seconds": 75,
+    "source_type": "Aptitude-QA (Prathamesh25/aptitude-qa-dataset)",
+    "tags": [
+      "aptitude-qa",
+      "sentence completion",
+      "03-advance"
+    ],
+    "target_roles": [],
+    "source": "Aptitude-QA dataset",
+    "license": "Apache-2.0",
+    "attribution": "Prathamesh25/aptitude-qa-dataset (Hugging Face), imported and validated by GenAssess."
+  },
+  {
+    "id": "aptqa-cloze-test-021",
+    "question": "Choose the word for __71__:",
+    "options": [
+      "Commanding",
+      "Inspiring",
+      "Controlling",
+      "Directing"
+    ],
+    "correct_answer": 1,
+    "explanation": "Shared vision suggests motivation. Inspiring fits best.",
+    "topic": "Cloze Test",
+    "subtopic": "Cloze Test",
+    "category": "Verbal Ability",
+    "difficulty": "Hard",
+    "estimated_time_seconds": 75,
+    "source_type": "Aptitude-QA (Prathamesh25/aptitude-qa-dataset)",
+    "tags": [
+      "aptitude-qa",
+      "cloze test",
+      "03-advance"
+    ],
+    "target_roles": [],
+    "source": "Aptitude-QA dataset",
+    "license": "Apache-2.0",
+    "attribution": "Prathamesh25/aptitude-qa-dataset (Hugging Face), imported and validated by GenAssess."
+  },
+  {
+    "id": "aptqa-cloze-test-022",
+    "question": "Choose the word for __72__:",
+    "options": [
+      "Undermine",
+      "Cultivate",
+      "Ignore",
+      "Suppress"
+    ],
+    "correct_answer": 1,
+    "explanation": "Trust is built actively. Cultivate is appropriate.",
+    "topic": "Cloze Test",
+    "subtopic": "Cloze Test",
+    "category": "Verbal Ability",
+    "difficulty": "Hard",
+    "estimated_time_seconds": 75,
+    "source_type": "Aptitude-QA (Prathamesh25/aptitude-qa-dataset)",
+    "tags": [
+      "aptitude-qa",
+      "cloze test",
+      "03-advance"
+    ],
+    "target_roles": [],
+    "source": "Aptitude-QA dataset",
+    "license": "Apache-2.0",
+    "attribution": "Prathamesh25/aptitude-qa-dataset (Hugging Face), imported and validated by GenAssess."
+  },
+  {
+    "id": "aptqa-cloze-test-023",
+    "question": "Choose the word for __73__:",
+    "options": [
+      "Stability",
+      "Challenges",
+      "Routine",
+      "Predictability"
+    ],
+    "correct_answer": 1,
+    "explanation": "Resilience implies difficulties. Challenges fits best.",
+    "topic": "Cloze Test",
+    "subtopic": "Cloze Test",
+    "category": "Verbal Ability",
+    "difficulty": "Hard",
+    "estimated_time_seconds": 75,
+    "source_type": "Aptitude-QA (Prathamesh25/aptitude-qa-dataset)",
+    "tags": [
+      "aptitude-qa",
+      "cloze test",
+      "03-advance"
+    ],
+    "target_roles": [],
+    "source": "Aptitude-QA dataset",
+    "license": "Apache-2.0",
+    "attribution": "Prathamesh25/aptitude-qa-dataset (Hugging Face), imported and validated by GenAssess."
+  },
+  {
+    "id": "aptqa-cloze-test-024",
+    "question": "Choose the word for __74__:",
+    "options": [
+      "Indifference",
+      "Adherence",
+      "Resistance",
+      "Deviation"
+    ],
+    "correct_answer": 1,
+    "explanation": "Ethics requires commitment. Adherence is appropriate.",
+    "topic": "Cloze Test",
+    "subtopic": "Cloze Test",
+    "category": "Verbal Ability",
+    "difficulty": "Hard",
+    "estimated_time_seconds": 75,
+    "source_type": "Aptitude-QA (Prathamesh25/aptitude-qa-dataset)",
+    "tags": [
+      "aptitude-qa",
+      "cloze test",
+      "03-advance"
+    ],
+    "target_roles": [],
+    "source": "Aptitude-QA dataset",
+    "license": "Apache-2.0",
+    "attribution": "Prathamesh25/aptitude-qa-dataset (Hugging Face), imported and validated by GenAssess."
+  },
+  {
+    "id": "aptqa-cloze-test-025",
+    "question": "Choose the word for __75__:",
+    "options": [
+      "Amplified",
+      "Diminished",
+      "Sustained",
+      "Enhanced"
+    ],
+    "correct_answer": 1,
+    "explanation": "Lack of integrity weakens influence. Diminished fits best.",
+    "topic": "Cloze Test",
+    "subtopic": "Cloze Test",
+    "category": "Verbal Ability",
+    "difficulty": "Hard",
+    "estimated_time_seconds": 75,
+    "source_type": "Aptitude-QA (Prathamesh25/aptitude-qa-dataset)",
+    "tags": [
+      "aptitude-qa",
+      "cloze test",
+      "03-advance"
+    ],
+    "target_roles": [],
+    "source": "Aptitude-QA dataset",
+    "license": "Apache-2.0",
+    "attribution": "Prathamesh25/aptitude-qa-dataset (Hugging Face), imported and validated by GenAssess."
+  },
+  {
+    "id": "aptqa-cloze-test-026",
+    "question": "Choose the word for __76__:",
+    "options": [
+      "Eliminates",
+      "Encounters",
+      "Ignores",
+      "Bypasses"
+    ],
+    "correct_answer": 1,
+    "explanation": "Innovation faces obstacles. Encounters fits best.",
+    "topic": "Cloze Test",
+    "subtopic": "Cloze Test",
+    "category": "Verbal Ability",
+    "difficulty": "Hard",
+    "estimated_time_seconds": 75,
+    "source_type": "Aptitude-QA (Prathamesh25/aptitude-qa-dataset)",
+    "tags": [
+      "aptitude-qa",
+      "cloze test",
+      "03-advance"
+    ],
+    "target_roles": [],
+    "source": "Aptitude-QA dataset",
+    "license": "Apache-2.0",
+    "attribution": "Prathamesh25/aptitude-qa-dataset (Hugging Face), imported and validated by GenAssess."
+  },
+  {
+    "id": "aptqa-cloze-test-027",
+    "question": "Choose the word for __77__:",
+    "options": [
+      "Flexible",
+      "Established",
+      "Temporary",
+      "Evolving"
+    ],
+    "correct_answer": 1,
+    "explanation": "Norms resisted are set. Established is appropriate.",
+    "topic": "Cloze Test",
+    "subtopic": "Cloze Test",
+    "category": "Verbal Ability",
+    "difficulty": "Hard",
+    "estimated_time_seconds": 75,
+    "source_type": "Aptitude-QA (Prathamesh25/aptitude-qa-dataset)",
+    "tags": [
+      "aptitude-qa",
+      "cloze test",
+      "03-advance"
+    ],
+    "target_roles": [],
+    "source": "Aptitude-QA dataset",
+    "license": "Apache-2.0",
+    "attribution": "Prathamesh25/aptitude-qa-dataset (Hugging Face), imported and validated by GenAssess."
+  },
+  {
+    "id": "aptqa-cloze-test-028",
+    "question": "Choose the word for __78**:",
+    "options": [
+      "Avoid",
+      "Overcome",
+      "Accept",
+      "Dismiss"
+    ],
+    "correct_answer": 1,
+    "explanation": "Innovators address opposition. Overcome fits best.",
+    "topic": "Cloze Test",
+    "subtopic": "Cloze Test",
+    "category": "Verbal Ability",
+    "difficulty": "Hard",
+    "estimated_time_seconds": 75,
+    "source_type": "Aptitude-QA (Prathamesh25/aptitude-qa-dataset)",
+    "tags": [
+      "aptitude-qa",
+      "cloze test",
+      "03-advance"
+    ],
+    "target_roles": [],
+    "source": "Aptitude-QA dataset",
+    "license": "Apache-2.0",
+    "attribution": "Prathamesh25/aptitude-qa-dataset (Hugging Face), imported and validated by GenAssess."
+  },
+  {
+    "id": "aptqa-cloze-test-029",
+    "question": "Choose the word for __79**:",
+    "options": [
+      "Pursued",
+      "Tempered",
+      "Ignored",
+      "Accelerated"
+    ],
+    "correct_answer": 1,
+    "explanation": "Caution balances innovation. Tempered is appropriate.",
+    "topic": "Cloze Test",
+    "subtopic": "Cloze Test",
+    "category": "Verbal Ability",
+    "difficulty": "Hard",
+    "estimated_time_seconds": 75,
+    "source_type": "Aptitude-QA (Prathamesh25/aptitude-qa-dataset)",
+    "tags": [
+      "aptitude-qa",
+      "cloze test",
+      "03-advance"
+    ],
+    "target_roles": [],
+    "source": "Aptitude-QA dataset",
+    "license": "Apache-2.0",
+    "attribution": "Prathamesh25/aptitude-qa-dataset (Hugging Face), imported and validated by GenAssess."
+  },
+  {
+    "id": "aptqa-cloze-test-030",
+    "question": "Choose the word for __80__:",
+    "options": [
+      "Stagnates",
+      "Propels",
+      "Hinders",
+      "Delays"
+    ],
+    "correct_answer": 1,
+    "explanation": "Innovation advances society. Propels fits best.",
+    "topic": "Cloze Test",
+    "subtopic": "Cloze Test",
+    "category": "Verbal Ability",
+    "difficulty": "Hard",
+    "estimated_time_seconds": 75,
+    "source_type": "Aptitude-QA (Prathamesh25/aptitude-qa-dataset)",
+    "tags": [
+      "aptitude-qa",
+      "cloze test",
+      "03-advance"
+    ],
+    "target_roles": [],
+    "source": "Aptitude-QA dataset",
+    "license": "Apache-2.0",
+    "attribution": "Prathamesh25/aptitude-qa-dataset (Hugging Face), imported and validated by GenAssess."
+  },
+  {
+    "id": "aptqa-idioms-phrases-021",
+    "question": "Meaning of “Cast pearls before swine”:",
+    "options": [
+      "Share wisdom with the wise",
+      "Waste value on the unworthy",
+      "Teach valuable lessons",
+      "Reward the undeserving"
+    ],
+    "correct_answer": 1,
+    "explanation": "Means giving something valuable to those who don’t appreciate it.",
+    "topic": "Idioms/Phrases",
+    "subtopic": "Idioms/Phrases",
+    "category": "Verbal Ability",
+    "difficulty": "Hard",
+    "estimated_time_seconds": 75,
+    "source_type": "Aptitude-QA (Prathamesh25/aptitude-qa-dataset)",
+    "tags": [
+      "aptitude-qa",
+      "idioms/phrases",
+      "03-advance"
+    ],
+    "target_roles": [],
+    "source": "Aptitude-QA dataset",
+    "license": "Apache-2.0",
+    "attribution": "Prathamesh25/aptitude-qa-dataset (Hugging Face), imported and validated by GenAssess."
+  },
+  {
+    "id": "aptqa-idioms-phrases-022",
+    "question": "Meaning of “Gild the lily”:",
+    "options": [
+      "Improve something simple",
+      "Overembellish something already beautiful",
+      "Simplify a complex issue",
+      "Clarify a misunderstanding"
+    ],
+    "correct_answer": 1,
+    "explanation": "Means adding unnecessary adornment.",
+    "topic": "Idioms/Phrases",
+    "subtopic": "Idioms/Phrases",
+    "category": "Verbal Ability",
+    "difficulty": "Hard",
+    "estimated_time_seconds": 75,
+    "source_type": "Aptitude-QA (Prathamesh25/aptitude-qa-dataset)",
+    "tags": [
+      "aptitude-qa",
+      "idioms/phrases",
+      "03-advance"
+    ],
+    "target_roles": [],
+    "source": "Aptitude-QA dataset",
+    "license": "Apache-2.0",
+    "attribution": "Prathamesh25/aptitude-qa-dataset (Hugging Face), imported and validated by GenAssess."
+  },
+  {
+    "id": "aptqa-idioms-phrases-023",
+    "question": "Meaning of “Hobson’s choice”:",
+    "options": [
+      "Multiple options",
+      "No real choice",
+      "Best option",
+      "Risky decision"
+    ],
+    "correct_answer": 1,
+    "explanation": "Means a choice where only one option is offered.",
+    "topic": "Idioms/Phrases",
+    "subtopic": "Idioms/Phrases",
+    "category": "Verbal Ability",
+    "difficulty": "Hard",
+    "estimated_time_seconds": 75,
+    "source_type": "Aptitude-QA (Prathamesh25/aptitude-qa-dataset)",
+    "tags": [
+      "aptitude-qa",
+      "idioms/phrases",
+      "03-advance"
+    ],
+    "target_roles": [],
+    "source": "Aptitude-QA dataset",
+    "license": "Apache-2.0",
+    "attribution": "Prathamesh25/aptitude-qa-dataset (Hugging Face), imported and validated by GenAssess."
+  },
+  {
+    "id": "aptqa-idioms-phrases-024",
+    "question": "Meaning of “In the doldrums”:",
+    "options": [
+      "Highly active",
+      "In a slump",
+      "Full of energy",
+      "Making progress"
+    ],
+    "correct_answer": 1,
+    "explanation": "Means in a state of stagnation or depression.",
+    "topic": "Idioms/Phrases",
+    "subtopic": "Idioms/Phrases",
+    "category": "Verbal Ability",
+    "difficulty": "Hard",
+    "estimated_time_seconds": 75,
+    "source_type": "Aptitude-QA (Prathamesh25/aptitude-qa-dataset)",
+    "tags": [
+      "aptitude-qa",
+      "idioms/phrases",
+      "03-advance"
+    ],
+    "target_roles": [],
+    "source": "Aptitude-QA dataset",
+    "license": "Apache-2.0",
+    "attribution": "Prathamesh25/aptitude-qa-dataset (Hugging Face), imported and validated by GenAssess."
+  },
+  {
+    "id": "aptqa-idioms-phrases-025",
+    "question": "Meaning of “Take the bull by the horns”:",
+    "options": [
+      "Avoid confrontation",
+      "Face a problem directly",
+      "Delay action",
+      "Delegate responsibility"
+    ],
+    "correct_answer": 1,
+    "explanation": "Means to tackle a challenge head-on.",
+    "topic": "Idioms/Phrases",
+    "subtopic": "Idioms/Phrases",
+    "category": "Verbal Ability",
+    "difficulty": "Hard",
+    "estimated_time_seconds": 75,
+    "source_type": "Aptitude-QA (Prathamesh25/aptitude-qa-dataset)",
+    "tags": [
+      "aptitude-qa",
+      "idioms/phrases",
+      "03-advance"
+    ],
+    "target_roles": [],
+    "source": "Aptitude-QA dataset",
+    "license": "Apache-2.0",
+    "attribution": "Prathamesh25/aptitude-qa-dataset (Hugging Face), imported and validated by GenAssess."
+  },
+  {
+    "id": "aptqa-idioms-phrases-026",
+    "question": "Meaning of “A Pyrrhic victory”:",
+    "options": [
+      "Decisive win",
+      "Victory at great cost",
+      "Easy triumph",
+      "Shared success"
+    ],
+    "correct_answer": 1,
+    "explanation": "Means a win that inflicts heavy losses.",
+    "topic": "Idioms/Phrases",
+    "subtopic": "Idioms/Phrases",
+    "category": "Verbal Ability",
+    "difficulty": "Hard",
+    "estimated_time_seconds": 75,
+    "source_type": "Aptitude-QA (Prathamesh25/aptitude-qa-dataset)",
+    "tags": [
+      "aptitude-qa",
+      "idioms/phrases",
+      "03-advance"
+    ],
+    "target_roles": [],
+    "source": "Aptitude-QA dataset",
+    "license": "Apache-2.0",
+    "attribution": "Prathamesh25/aptitude-qa-dataset (Hugging Face), imported and validated by GenAssess."
+  },
+  {
+    "id": "aptqa-idioms-phrases-027",
+    "question": "Meaning of “Bête noire”:",
+    "options": [
+      "Close friend",
+      "Object of dislike",
+      "Favorite hobby",
+      "Trusted ally"
+    ],
+    "correct_answer": 1,
+    "explanation": "Means something or someone strongly disliked.",
+    "topic": "Idioms/Phrases",
+    "subtopic": "Idioms/Phrases",
+    "category": "Verbal Ability",
+    "difficulty": "Hard",
+    "estimated_time_seconds": 75,
+    "source_type": "Aptitude-QA (Prathamesh25/aptitude-qa-dataset)",
+    "tags": [
+      "aptitude-qa",
+      "idioms/phrases",
+      "03-advance"
+    ],
+    "target_roles": [],
+    "source": "Aptitude-QA dataset",
+    "license": "Apache-2.0",
+    "attribution": "Prathamesh25/aptitude-qa-dataset (Hugging Face), imported and validated by GenAssess."
+  },
+  {
+    "id": "aptqa-idioms-phrases-028",
+    "question": "Meaning of “Run the gauntlet”:",
+    "options": [
+      "Escape danger",
+      "Face severe criticism",
+      "Win easily",
+      "Avoid challenges"
+    ],
+    "correct_answer": 1,
+    "explanation": "Means enduring harsh trials or criticism.",
+    "topic": "Idioms/Phrases",
+    "subtopic": "Idioms/Phrases",
+    "category": "Verbal Ability",
+    "difficulty": "Hard",
+    "estimated_time_seconds": 75,
+    "source_type": "Aptitude-QA (Prathamesh25/aptitude-qa-dataset)",
+    "tags": [
+      "aptitude-qa",
+      "idioms/phrases",
+      "03-advance"
+    ],
+    "target_roles": [],
+    "source": "Aptitude-QA dataset",
+    "license": "Apache-2.0",
+    "attribution": "Prathamesh25/aptitude-qa-dataset (Hugging Face), imported and validated by GenAssess."
+  },
+  {
+    "id": "aptqa-idioms-phrases-029",
+    "question": "Meaning of “Turn a blind eye”:",
+    "options": [
+      "Pay close attention",
+      "Ignore deliberately",
+      "Investigate thoroughly",
+      "Act cautiously"
+    ],
+    "correct_answer": 1,
+    "explanation": "Means to pretend not to notice.",
+    "topic": "Idioms/Phrases",
+    "subtopic": "Idioms/Phrases",
+    "category": "Verbal Ability",
+    "difficulty": "Hard",
+    "estimated_time_seconds": 75,
+    "source_type": "Aptitude-QA (Prathamesh25/aptitude-qa-dataset)",
+    "tags": [
+      "aptitude-qa",
+      "idioms/phrases",
+      "03-advance"
+    ],
+    "target_roles": [],
+    "source": "Aptitude-QA dataset",
+    "license": "Apache-2.0",
+    "attribution": "Prathamesh25/aptitude-qa-dataset (Hugging Face), imported and validated by GenAssess."
+  },
+  {
+    "id": "aptqa-idioms-phrases-030",
+    "question": "Meaning of “Wear your heart on your sleeve”:",
+    "options": [
+      "Hide emotions",
+      "Show emotions openly",
+      "Act rationally",
+      "Suppress feelings"
+    ],
+    "correct_answer": 1,
+    "explanation": "Means to display emotions openly.",
+    "topic": "Idioms/Phrases",
+    "subtopic": "Idioms/Phrases",
+    "category": "Verbal Ability",
+    "difficulty": "Hard",
+    "estimated_time_seconds": 75,
+    "source_type": "Aptitude-QA (Prathamesh25/aptitude-qa-dataset)",
+    "tags": [
+      "aptitude-qa",
+      "idioms/phrases",
+      "03-advance"
+    ],
+    "target_roles": [],
+    "source": "Aptitude-QA dataset",
+    "license": "Apache-2.0",
+    "attribution": "Prathamesh25/aptitude-qa-dataset (Hugging Face), imported and validated by GenAssess."
+  }
+]

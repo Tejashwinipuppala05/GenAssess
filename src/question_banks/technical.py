@@ -110,3 +110,19 @@ TECHNICAL_QUESTIONS: list[BankQuestion] = [
               "Review can identify defects, clarify design, improve maintainability, and share knowledge before the change becomes part of the shared codebase.",
               "Review complements automated tests rather than replacing them."),
 ]
+# Load validated FAQGURU technical interview records from the local validated dataset format.
+import json
+from pathlib import Path
+
+_FAQGURU_TECHNICAL_PATH = (
+    Path(__file__).resolve().parents[2] / "data" / "question_banks" / "faqguru_technical.json"
+)
+if _FAQGURU_TECHNICAL_PATH.exists():
+    _seen_questions = {question["question"].strip().lower() for question in TECHNICAL_QUESTIONS}
+    for _record in json.loads(_FAQGURU_TECHNICAL_PATH.read_text(encoding="utf-8")):
+        _normalized = _record["question"].strip().lower()
+        if _normalized in _seen_questions:
+            continue
+        _seen_questions.add(_normalized)
+        TECHNICAL_QUESTIONS.append(_record)
+

@@ -116,3 +116,24 @@ def radian_degree(degree):
         ],
     ),
 ]
+# Load additional validated MBPP records from the local validated dataset format.
+import json
+from pathlib import Path
+
+_MBPP_VALIDATED_PATH = (
+    Path(__file__).resolve().parents[2] / "data" / "question_banks" / "mbpp_validated.json"
+)
+if _MBPP_VALIDATED_PATH.exists():
+    for _record in json.loads(_MBPP_VALIDATED_PATH.read_text(encoding="utf-8")):
+        CODING_QUESTIONS.append(
+            _mbpp_question(
+                _record["task_id"],
+                _record["topic"],
+                _record["difficulty"],
+                _record["prompt"],
+                _record["solution"],
+                _record["tests"],
+                imports=_record.get("test_imports") or [],
+            )
+        )
+

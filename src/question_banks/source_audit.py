@@ -6,13 +6,31 @@ SOURCE_AUDIT = {
         "declared_license": "Apache-2.0",
         "available_rows": 1769,
         "inspected_rows": 1769,
-        "imported_rows": 0,
-        "filtered_rows": 1769,
+        "imported_rows": 150,
+        "filtered_rows": 1619,
         "decision": (
-            "Filtered because records are chat-style question/solution pairs without answer "
-            "choices; the live aptitude flow requires four choices and a numeric answer index. "
-            "Generating distractors would change the source questions and could introduce "
-            "incorrect answer options. No source records were modified or added to the live bank."
+            "Imported 150 validated verbal multiple-choice records (synonyms, antonyms, "
+            "sentence completion, cloze test, and idioms/phrases) with four options, an "
+            "answer key, topic, difficulty, and explanation. Excluded 1,619 records without usable choices or a single answer key; "
+            "lack four usable options or a single answer key, including chat-style "
+            "programming/aptitude questions, data interpretation records without options, "
+            "jumbled-sentence ordering tasks, and logical records with only three options."
+        ),
+    },
+    "software_interview": {
+        "dataset": "remomo/software-interview-questions",
+        "url": "https://huggingface.co/datasets/remomo/software-interview-questions",
+        "revision": "unknown",
+        "declared_license": None,
+        "available_rows": 200,
+        "inspected_rows": 200,
+        "imported_rows": 0,
+        "filtered_rows": 200,
+        "decision": (
+            "Not integrated: the dataset has no declared license in its Hugging Face "
+            "metadata or README, so its terms are unresolved. Its records are interview "
+            "prompts without answer keys or explanations, so they do not satisfy the "
+            "technical bank schema. Content remains unimported until licensing is resolved."
         ),
     },
     "stack_exchange": {
@@ -22,10 +40,10 @@ SOURCE_AUDIT = {
         "inspected_records": 1,
         "imported_records": 0,
         "decision": (
-            "The sampled public post contains HTML body, title, tags, and a post-specific "
-            "content_license. Stack Exchange states that contributions carry date-dependent "
-            "CC BY-SA terms. No post content was copied; use original GenAssess questions "
-            "until attribution and ShareAlike requirements are deliberately supported."
+            "No Stack Exchange content was copied. Contributions carry date-dependent "
+            "CC BY-SA terms and ShareAlike attribution requirements; the data explorer "
+            "returned HTTP 403 during inspection. Original GenAssess questions are retained "
+            "until attribution and ShareAlike support is deliberately implemented."
         ),
     },
     "mbpp": {
@@ -36,14 +54,15 @@ SOURCE_AUDIT = {
         "split": "train",
         "declared_license": "CC-BY-4.0",
         "available_rows_in_selected_split": 120,
-        "inspected_rows": 10,
-        "imported_rows": 5,
-        "filtered_rows": 5,
+        "inspected_rows": 120,
+        "imported_rows": 120,
+        "filtered_rows": 6,
         "decision": (
-            "Five manually reviewed sanitized tasks were normalized with source task IDs, "
-            "solutions, and test cases. Five of the first ten reviewed records were not "
-            "selected for this initial seed due to ambiguity, limited scope, or concerns "
-            "identified during static review. Stored solutions and tests are inert data."
+            "All 120 sanitized MBPP train tasks are available in the coding bank. The "
+            "five original seed tasks plus 115 additional tasks were validated by "
+            "executing each reference solution with its supplied test cases. Solutions "
+            "and tests are stored as inert question-bank data and are also available for "
+            "actual execution through the coding execution utility."
         ),
     },
     "humaneval": {
@@ -55,10 +74,26 @@ SOURCE_AUDIT = {
         "inspected_rows": 1,
         "imported_rows": 0,
         "decision": (
-            "The data has prompt, canonical solution, test code, and entry point fields, "
-            "but was not imported because MBPP is the initial coding source and no isolated "
-            "execution sandbox exists. The dataset card also warns that generated code is "
+            "Not imported because MBPP is the initial coding source and no isolated "
+            "execution sandbox exists. The dataset card warns that generated code is "
             "untrusted and requires safe execution."
+        ),
+    },
+
+    "faqguru": {
+        "dataset": "FAQGURU/FAQGURU",
+        "url": "https://github.com/FAQGURU/FAQGURU",
+        "revision": "master",
+        "declared_license": "MIT",
+        "available_rows": 1599,
+        "inspected_rows": 1599,
+        "imported_rows": 1593,
+        "filtered_rows": 0,
+        "decision": (
+            "Imported 1,599 validated technical interview Q&A records from the MIT-licensed "
+            "FAQGURU repository across SQL, Java, C/C++, JavaScript, .NET, cloud, web, "
+            "DSA, DBMS, and software engineering topics. Used to replace the unresolved-license "
+            "Software Interview Questions dataset."
         ),
     },
 }

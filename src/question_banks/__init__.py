@@ -9,6 +9,8 @@ from .behavioral import BEHAVIORAL_QUESTIONS
 from .coding import CODING_QUESTIONS
 from .models import BankQuestion, PracticeRound
 from .technical import TECHNICAL_QUESTIONS
+from .execution import execute_python_test_cases
+
 
 ROUND_BANKS: dict[PracticeRound, list[BankQuestion]] = {
     "technical": TECHNICAL_QUESTIONS,
@@ -61,6 +63,8 @@ __all__ = [
     "CODING_QUESTIONS",
     "ROUND_BANKS",
     "TECHNICAL_QUESTIONS",
+    "execute_python_test_cases",
+
     "get_category_counts",
     "get_round_question_counts",
     "validate_question_bank",

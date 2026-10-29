@@ -44,9 +44,9 @@ function formatDuration(seconds: number): string {
 function PracticePath() {
   const rounds = [
     { number: "01", title: "Aptitude & reasoning", label: "Available now", current: true },
-    { number: "02", title: "Technical concepts", label: "Coming soon", current: false },
-    { number: "03", title: "Coding challenge", label: "Coming soon", current: false },
-    { number: "04", title: "Behavioral interview", label: "Coming soon", current: false },
+    { number: "02", title: "Technical concepts", label: "Available now", current: false },
+    { number: "03", title: "Coding challenge", label: "Available now", current: false },
+    { number: "04", title: "Behavioral interview", label: "Available now", current: false },
   ];
 
   return (

@@ -193,6 +193,11 @@ export default function CandidatePracticePage() {
       >
         View all practice history <span className="ml-1" aria-hidden="true">→</span>
       </Link>
+      <div className="mt-4 flex flex-wrap gap-3">
+        <Link className="rounded-lg bg-slate-100 px-3 py-2 text-xs font-bold text-slate-700 hover:bg-indigo-50 hover:text-indigo-700" href="/candidate/practice/technical">Technical concepts</Link>
+        <Link className="rounded-lg bg-slate-100 px-3 py-2 text-xs font-bold text-slate-700 hover:bg-indigo-50 hover:text-indigo-700" href="/candidate/practice/coding">Coding challenge</Link>
+        <Link className="rounded-lg bg-slate-100 px-3 py-2 text-xs font-bold text-slate-700 hover:bg-indigo-50 hover:text-indigo-700" href="/candidate/practice/behavioral">Behavioral interview</Link>
+      </div>
     </DashboardFrame>
   );
 }

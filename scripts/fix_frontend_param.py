@@ -1,0 +1,13 @@
+p='frontend/src/app/candidate/practice/technical/page.tsx'
+s=open(p).read()
+s=s.replace('rounds/technical/questions?limit=5&targetRole=','rounds/technical/questions?limit=5&target_role=')
+open(p,'w').write(s)
+p='frontend/src/app/candidate/practice/coding/page.tsx'
+s=open(p).read()
+s=s.replace('rounds/coding/questions?limit=5&targetRole=','rounds/coding/questions?limit=5&target_role=')
+open(p,'w').write(s)
+p='frontend/src/app/candidate/practice/behavioral/page.tsx'
+s=open(p).read()
+s=s.replace('rounds/behavioral/questions?limit=3&targetRole=','rounds/behavioral/questions?limit=3&target_role=')
+open(p,'w').write(s)
+print('done')

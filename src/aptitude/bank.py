@@ -130,3 +130,16 @@ QUESTION_BANK: list[QuestionDefinition] = [
 
 def get_question(question_id: str) -> QuestionDefinition | None:
     return next((question for question in QUESTION_BANK if question["id"] == question_id), None)
+# Load validated imported Aptitude-QA records without fetching the dataset at assessment time.
+import json
+from pathlib import Path
+
+_IMPORTED_APTITUDE_PATH = (
+    Path(__file__).resolve().parents[2] / "data" / "question_banks" / "aptitude_imported.json"
+)
+if _IMPORTED_APTITUDE_PATH.exists():
+    for _imported_question in json.loads(
+        _IMPORTED_APTITUDE_PATH.read_text(encoding="utf-8")
+    ):
+        QUESTION_BANK.append(_imported_question)
+
